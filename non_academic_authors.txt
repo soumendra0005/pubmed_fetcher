@@ -1,0 +1,1295 @@
+40079210	Bäckman	Emmace Consulting, SE-223 63 Lund, Sweden.
+40079210	Clark	Aerogen Pharma, San Mateo, California 94402, United States.
+40079210	Hastedt	JDP Pharma Consulting, San Carlos, California 94070, United States.
+40079210	Olsson	Emmace Consulting, SE-223 63 Lund, Sweden.
+40077941	Tafuri	Value, Access & Policy, Apellis Switzerland GmbH, Zug, Switzerland.
+40076808	Colantuono	Arterra Bioscience S.p.A., Via Benedetto Brin 69, 80142 Napoli, Italy.
+40076808	Tito	Arterra Bioscience S.p.A., Via Benedetto Brin 69, 80142 Napoli, Italy.
+40076775	Podesta	Bluetail Medical Group and Podesta Orthopedic Sports Medicine, Naples, FL 34109, USA.
+40075036	Kollipara	Biopharmaceutics Group, Global Clinical Management, Integrated Product Development Organization (IPDO), Dr. Reddy's Laboratories Ltd, Medchal Malkajgiri District, Bachupally, 500 090, Telangana, India. sivacharankollipara@drreddys.com.
+40075036	Ahmed	Biopharmaceutics Group, Global Clinical Management, Integrated Product Development Organization (IPDO), Dr. Reddy's Laboratories Ltd, Medchal Malkajgiri District, Bachupally, 500 090, Telangana, India.
+40075002	Daungsupawong	Private Academic Consultant, Phonhong, Laos. hinpetchdaung@gmail.com.
+40074758	Lee	Raffles Medical Group, Singapore, Singapore.
+40074758	Wee	Raffles Medical Group, Singapore, Singapore.
+40074758	Chng	Raffles Medical Group, Singapore, Singapore.
+40074758	Wong	Raffles Medical Group, Singapore, Singapore.
+40074465	Cao	BridgeBio Pharma, Inc, San Francisco, California, USA.
+40074465	Lystig	BridgeBio Pharma, Inc, San Francisco, California, USA.
+40074465	Tamby	BridgeBio Pharma, Inc, San Francisco, California, USA.
+40074465	Siddhanti	BridgeBio Pharma, Inc, San Francisco, California, USA.
+40074465	Castaño	BridgeBio Pharma, Inc, San Francisco, California, USA.
+40074465	Katz	BridgeBio Pharma, Inc, San Francisco, California, USA.
+40074465	Fox	BridgeBio Pharma, Inc, San Francisco, California, USA.
+40074119	El-Maradny	Pharmaceutical and Fermentation Industries Development Centre (PFIDC), City of Scientific Research and Technological Applications (SRTA-City), New Borg El-Arab, Alexandria, Egypt.
+40073941	Fujishiro	Terumo Corporation, Innovation Center, Kanagawa, Japan.
+40073941	Hirano	Terumo Corporation, Innovation Center, Kanagawa, Japan.
+40072824	Nakaya	Takeda Pharmaceutical Company Limited, Tokyo, Japan.
+40072816	Ishii	Novartis Pharma K.K., Toranomon Hills Tower, 23-1, Toranomon 1-chome, Minato-ku, Tokyo, Japan. kentaro.ishii@novartis.com.
+40072816	Kiriyama	Novartis Pharma K.K., Toranomon Hills Tower, 23-1, Toranomon 1-chome, Minato-ku, Tokyo, Japan.
+40072816	Mikami	Novartis Pharma K.K., Toranomon Hills Tower, 23-1, Toranomon 1-chome, Minato-ku, Tokyo, Japan.
+40072549	Giricz	Pharmahungary Group, Szeged, Hungary.
+40071595	Evans	Health Social Services and Early Years Group, Welsh Government, Cardiff, UK.
+40070966	Lecoultre	Agroscope, Mycology Group, Nyon, Switzerland.
+40070966	Gindro	Agroscope, Mycology Group, Nyon, Switzerland.
+40070647	Cao	Haisco Pharmaceutical Group Co. Ltd., Chengdu, China.
+40069740	Kelber	Phytomedicines Supply and Development Center, R&D, Bayer Consumer Health, SteigerwaldArzneimittelwerk GmbH, Darmstadt, Germany.
+40069740	Raskopf	ClinCompetence Cologne GmbH, Cologne, Germany.
+40069675	Salinas	CE Outcomes, LLC, Birmingham, AL, USA.
+40069675	Belcher	CE Outcomes, LLC, Birmingham, AL, USA.
+40069518	Bean	Patient Centered Solutions, IQVIA, 600 Lexington Avenue, New York, NY, 10022, USA.
+40069518	Graham	Patient Centered Solutions, IQVIA, 600 Lexington Avenue, New York, NY, 10022, USA.
+40069518	Hoffman	Takeda Pharmaceutical Company, 650 E Kendall St, Cambridge, MA, 02142, USA.
+40069518	Karantzoulis	Patient Centered Solutions, IQVIA, 600 Lexington Avenue, New York, NY, 10022, USA.
+40069400	Fernández-Metzler	PharmaCadence Analytical Services, LLC, Hatfield, Pennsylvania, 19440, USA.
+40069278	Pathan	Advent Informatics Pvt. Ltd., Pune, Maharashtra, India.
+40068370	Neu	Chrestos Concept GmbH & Co. KG, Essen, Germany.
+40068370	Mussi	Bayer S.p.A., Milan, Italy.
+40066684	Wyttenbach	Roche Pharma Research and Early Development, Therapeutic Modalities, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Grenzacherstrasse 124, 4070 Basel, Switzerland.
+40066684	Saal	Roche Pharma Research and Early Development, Therapeutic Modalities, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Grenzacherstrasse 124, 4070 Basel, Switzerland.
+40066064	Adam	MMV Medicines for Malaria Venture, 1215, Geneva, Switzerland.
+40066064	Campo	MMV Medicines for Malaria Venture, 1215, Geneva, Switzerland.
+40066064	Duffy	MMV Medicines for Malaria Venture, 1215, Geneva, Switzerland.
+40064402	Ramadan	Interdisciplinary Biosciences Group, Radiobiology Unit, Belgian Nuclear Research Centre (SCK CEN), Mol, Belgium.
+40063733	Kuhn	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	Benz	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	Schippers	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	Leibrock	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	Collin	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	Wittwer	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	Topp	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	O'Hara	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	Heer	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	Hochstrasser	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	Blaising	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063733	Grether	Roche Pharma Research & Early Development, 4070 Basel, Switzerland.
+40063703	Fertig	Nanion Technologies GmbH, 80339 München, Germany.
+40063703	George	Nanion Technologies GmbH, 80339 München, Germany.
+40062317	Jermy	Germinate, Germinate Science Consulting Ltd, Suffolk, UK.
+40062317	Joshi	International Centre for AMR Solutions, Copenhagen, Denmark.
+40062317	King	ARCTA solutions Ltd, Hampshire, UK.
+40061058	Houache	Private Practice of Urology Oran, Algeria.
+40059312	Yu	Infinitus (China) Company Limited, Guangzhou, China.
+40059312	Gao	Infinitus (China) Company Limited, Guangzhou, China.
+40059312	Xiao	Infinitus (China) Company Limited, Guangzhou, China.
+40059312	Liang	Infinitus (China) Company Limited, Guangzhou, China.
+40058278	Neri	Matís Ohf, Food and Biotech R&D, Vínlandsleið 12, Reykjavík 113, Iceland.
+40058278	Guðmundsson	Matís Ohf, Food and Biotech R&D, Vínlandsleið 12, Reykjavík 113, Iceland.
+40058278	Fridjonsson	Matís Ohf, Food and Biotech R&D, Vínlandsleið 12, Reykjavík 113, Iceland.
+40057892	Hofmann	Boehringer Ingelheim International GmbH, Ingelheim, Germany.
+40057892	Thoma	Boehringer Ingelheim International GmbH, Ingelheim, Germany.
+40057567	Lehtisalo	Pharmaceutical Sciences, Orion Corporation Orion Pharma, Turku, Finland.
+40057567	Oja	Pharmaceutical Sciences, Orion Corporation Orion Pharma, Turku, Finland.
+40057567	Paavilainen	Immuno-Oncology, Oncology Research, Orion Corporation, Turku, Finland.
+40057567	Autio	Immuno-Oncology, Oncology Research, Orion Corporation, Turku, Finland.
+40057567	Nyman	Immuno-Oncology, Oncology Research, Orion Corporation, Turku, Finland.
+40057567	Nikoskelainen	Protein and Antibody Engineering, Medicine Design, Orion Corporation, Turku, Finland.
+40057567	Kergourlay	Immuno-Oncology, Oncology Research, Orion Corporation, Turku, Finland.
+40057567	Elbasani	Immuno-Oncology, Oncology Research, Orion Corporation, Turku, Finland.
+40057567	van Veen	Pharmaceutical Sciences, Orion Corporation Orion Pharma, Turku, Finland.
+40057567	Thotakura	Immuno-Oncology, Oncology Research, Orion Corporation, Turku, Finland.
+40057171	Leishman	Drug Disposition, Toxicology and PKPD, Eli Lilly and Company, Indianapolis, IN 46285, USA. Electronic address: derek.leishman@lilly.com.
+40056678	Wang	Tri-i Biotech (Shanghai) Inc., Room 701, No.18 Tianshan Road, Changning District, Shanghai 200336, PR China. Electronic address: wjk@tri-ibiotech.com.
+40056485	Del-Aguila-Arcentales	Sustainability and Business Research Group, Escuela de Posgrado, Universidad San Ignacio de Loyola, Lima, Peru.
+40056477	Simon	SDG, LLC, Cambridge, MA, USA.
+40055950	Martelli	Sun Pharmaceutical Industries B.V., Hoofddorp, The Netherlands.
+40055950	Arntz	Sun Pharmaceutical Industries B.V., Hoofddorp, The Netherlands.
+40055245	Kollipara	Biopharmaceutics Group, Global Clinical Management, Integrated Product Development Organization (IPDO), Dr. Reddy's Laboratories Ltd, Bachupally, Medchal Malkajgiri District, Hyderabad, 500 090, Telangana, India.
+40055237	Faraggi	Research and Information Systems LLC, Indianapolis, IN, USA.
+40055237	Acuna-Hidalgo	Nostos Genomics GmbH, Berlin, Germany.
+40055237	Grafmüller	Nostos Genomics GmbH, Berlin, Germany.
+40055237	Barrón	Nostos Genomics GmbH, Berlin, Germany.
+40054639	Wei	Lunan Pharmaceutical Group Co., Ltd, Linyi, 276000, Shandong, China. Electronic address: weiruixia22@163.com.
+40054132	Prajapati	Piramal Pharma Limited, Plot No. 18, Pharmaceutical Special Economic Zone, Village-Matoda, Taluka-Sanand, Ahmedabad, Gujarat 382213, India.
+40054108	Zhou	United-Power Pharma Tech (Shanghai) Co., LTD., Building 30, Lane 908, Ziping Road, Pudong New Area, Shanghai, China.
+40054108	Yang	United-Power Pharma Tech (Shanghai) Co., LTD., Building 30, Lane 908, Ziping Road, Pudong New Area, Shanghai, China.
+40054108	Ma	United-Power Pharma Tech (Shanghai) Co., LTD., Building 30, Lane 908, Ziping Road, Pudong New Area, Shanghai, China. Electronic address: markma@up-pharma.com.
+40051632	Koenig	Contract Development, TissUse GmbH, Berlin, Germany.
+40051632	Tao	Contract Development, TissUse GmbH, Berlin, Germany.
+40051632	Winter	Contract Development, TissUse GmbH, Berlin, Germany.
+40051506	Facchinello	Roche S.p.A., Monza, Italy.
+40051506	Robello	Roche S.p.A., Monza, Italy.
+40051352	Wang	National Pharmaceutical Group Weiqida Pharmaceutical Co., Ltd, China.
+40050429	Marston	TIMI Study Group, Boston, MA, USA.
+40050429	Braunwald	TIMI Study Group, Boston, MA, USA.
+40050429	Kamanu	TIMI Study Group, Boston, MA, USA.
+40050429	Melloni	TIMI Study Group, Boston, MA, USA.
+40050429	Sabatine	TIMI Study Group, Boston, MA, USA.
+40050429	Ruff	TIMI Study Group, Boston, MA, USA.
+40049924	Roberts	SMG Pharma Safety GlaxoSmithKline, Middlesex, UK.
+40049049	Hou	Luoxin Pharmaceuticals Group Stock Co., Ltd., Linyi, PR China.
+40049049	Song	Luoxin Pharmaceuticals Group Stock Co., Ltd., Linyi, PR China.
+40048992	James	Novartis Pharma AG, Basel, Switzerland. Electronic address: alexander_david.james@novartis.com.
+40048992	Lanshoeft	Novartis Pharma AG, Basel, Switzerland.
+40048992	Siegrist	Pharma Research and Early Development, Pharmaceutical Sciences, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Basel, Switzerland.
+40048458	Jang	RexSoft Corp., Seoul, Republic of Korea.
+40048145	Jackson	Agency for Science, Technology and Research (A*STAR), 1 Pesek Road, Jurong Island, 627833, Singapore.
+40047857	MacLoughlin	Aerogen Ltd, Galway Business Park, Galway, Ireland.
+40047635	Kjoller	Photothermal Spectroscopy Corp, Santa Barbara, California 93101, United States.
+40047259	Rustler	Iris Biotech GmbH, Marktredwitz, Germany.
+40047259	Bruckdorfer	Iris Biotech GmbH, Marktredwitz, Germany.
+40046067	Yahya	USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program, Management Sciences for Health, Cnr. Samora Avenue/Mirambo Street, Diamond Plaza, Dar es Salaam, Tanzania.
+40046067	Lusaya	USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program, Management Sciences for Health, Cnr. Samora Avenue/Mirambo Street, Diamond Plaza, Dar es Salaam, Tanzania.
+40046067	Konduri	USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program, Management Sciences for Health, 4201 N. Fairfax Dr., Suite 500, Arlington, VA, USA.
+40044378	Zeiger	Errol Zeiger Consulting, Chapel Hill, NC 27514, USA. Electronic address: zeiger@nc.rr.com.
+40043968	Laurenti	Institut de recherches sur la catalyse et l'environnement de Lyon (IRCELYON), UMR 5256, CNRS-Université Claude Bernard Lyon1, 2 av. Albert Einstein, 69626 Villeurbanne Cedex, France.
+40043968	Geantet	Institut de recherches sur la catalyse et l'environnement de Lyon (IRCELYON), UMR 5256, CNRS-Université Claude Bernard Lyon1, 2 av. Albert Einstein, 69626 Villeurbanne Cedex, France.
+40043920	Bramböck	MeltPrep GmbH, Nikolaiplatz 4/3, 8020 Graz, Austria.
+40043920	Treffer	MeltPrep GmbH, Nikolaiplatz 4/3, 8020 Graz, Austria.
+40043535	Xie	State Key Laboratory of Anti-Infective Drug Development (NO. 2015DQ780357), Sunshine Lake Pharma Co., Ltd, Dongguan, 523871, Guangdong. China.
+40043535	Chen	State Key Laboratory of Anti-Infective Drug Development (NO. 2015DQ780357), Sunshine Lake Pharma Co., Ltd, Dongguan, 523871, Guangdong. China.
+40042165	Chen	Digifluidic Biotech Inc., Zhuhai, China.
+40038154	Joshi	Chartwell Pharmaceuticals LLC, 77 Brenner Dr, Congers, New York, 10920, USA.
+40037487	Rish	Sentronic US Corp., 8 Saddle Road, Norwalk, CT 06851, USA. Electronic address: a.rish@sentronic.us.com.
+40037487	Assis	BASF Corporation, Tarrytown, NY 10591, USA.
+40037487	Rehrauer	Sentronic US Corp., 8 Saddle Road, Norwalk, CT 06851, USA.
+40037487	Taylor	Sentronic US Corp., 8 Saddle Road, Norwalk, CT 06851, USA.
+40036851	Kanou	Nutraceutical group, Teijin Limited, 4-3-2, Asahigaoka, Hino, Tokyo 191-8512, Japan.
+40036851	Jimbo	Nutraceutical group, Teijin Limited, 4-3-2, Asahigaoka, Hino, Tokyo 191-8512, Japan.
+40036851	Hirata	Pharmaceutical Discovery Research Laboratories, Teijin Pharma Limited, 4-3-2, Asahigaoka, Hino, Tokyo 191-8512, Japan.
+40036851	Yamana	Nutraceutical group, Teijin Limited, 4-3-2, Asahigaoka, Hino, Tokyo 191-8512, Japan.
+40035582	Arsiccio	Coriolis Pharma, Fraunhoferstrasse 18b, 82152 Martinsried, Germany.
+40035476	Eisenberg	Frontier BioPharm, LLC, Richmond, Kentucky, USA.
+40034823	Graf	Dynamic42 GmbH, Jena, Germany.
+40034823	Vogt	Dynamic42 GmbH, Jena, Germany.
+40034823	Besser	Dynamic42 GmbH, Jena, Germany.
+40034823	Geilen	Dynamic42 GmbH, Jena, Germany.
+40034823	Kaden	Dynamic42 GmbH, Jena, Germany.
+40034823	Bothe	Dynamic42 GmbH, Jena, Germany.
+40034823	Amiri	MPSlabs, ESQlabs GmbH, Saterland, Germany.
+40034823	Schaller	ESQlabs GmbH, Saterland, Germany.
+40034823	Raasch	Dynamic42 GmbH, Jena, Germany.
+40034823	Ammar	Global R&D, Bayer Consumer Health, Steigerwald Arzneimittelwerk GmbH, Darmstadt, Germany.
+40034823	Maass	MPSlabs, ESQlabs GmbH, Saterland, Germany.
+40034318	Ma	Tasly Stem Cell Biology Laboratory, Tasly Group, Tianjin, 300410, China.
+40034318	Song	Tasly Stem Cell Biology Laboratory, Tasly Group, Tianjin, 300410, China.
+40034318	Wang	Tasly Stem Cell Biology Laboratory, Tasly Group, Tianjin, 300410, China.
+40034318	Liu	Tasly Stem Cell Biology Laboratory, Tasly Group, Tianjin, 300410, China.
+40034318	Zhang	Tasly Stem Cell Biology Laboratory, Tasly Group, Tianjin, 300410, China.
+40034318	Jin	Tasly Stem Cell Biology Laboratory, Tasly Group, Tianjin, 300410, China.
+40034318	Han	Tasly Stem Cell Biology Laboratory, Tasly Group, Tianjin, 300410, China.
+40034318	Zuo	Tasly Stem Cell Biology Laboratory, Tasly Group, Tianjin, 300410, China.
+40032775	Shi	Eli Lilly and Company, Lilly Corporate Center, Indianapolis, IN, 46221, USA.
+40032775	Shih	Eli Lilly and Company, Lilly Corporate Center, Indianapolis, IN, 46221, USA.
+40032775	Parker	Eli Lilly and Company, Lilly Corporate Center, Indianapolis, IN, 46221, USA.
+40032775	Patel	Eli Lilly and Company, Lilly Corporate Center, Indianapolis, IN, 46221, USA.
+40032775	Sree	Eli Lilly and Company, Lilly Corporate Center, Indianapolis, IN, 46221, USA.
+40032775	Collins	Eli Lilly and Company, Lilly Corporate Center, Indianapolis, IN, 46221, USA. collins_david_s@lilly.com.
+40032686	Dehne	TissUse GmbH, Berlin, Germany.
+40032686	Ataç Wagegg	TissUse GmbH, Berlin, Germany.
+40032136	Wang	Pharma Early Research and Development, Roche Innovation Center Basel, F. Hoffmann-La Roche, Grenzacherstrasse 124, 4070 Basel, Switzerland.
+40032136	Parrott	Pharma Early Research and Development, Roche Innovation Center Basel, F. Hoffmann-La Roche, Grenzacherstrasse 124, 4070 Basel, Switzerland.
+40032128	Gu	Genhawk Biotech Company Limited, Hubei, Wuhan 430074, China. Electronic address: hogu@genhawkbio.com.
+40029689	Kelemen	ABITEC Corporation, 501 W First Ave, Columbus, Ohio 43215, United States.
+40028036	Li	State Key Laboratory of Esophageal Cancer Prevention & Treatment, Key Laboratory of Advanced Drug Preparation Technologies, Ministry of Education of China, Key Laboratory of Henan Province for Drug Quality Control and Evaluation, Zhengzhou, Henan 450001, China.
+40028036	Wang	State Key Laboratory of Esophageal Cancer Prevention & Treatment, Key Laboratory of Advanced Drug Preparation Technologies, Ministry of Education of China, Key Laboratory of Henan Province for Drug Quality Control and Evaluation, Zhengzhou, Henan 450001, China.
+40028036	Zheng	State Key Laboratory of Esophageal Cancer Prevention & Treatment, Key Laboratory of Advanced Drug Preparation Technologies, Ministry of Education of China, Key Laboratory of Henan Province for Drug Quality Control and Evaluation, Zhengzhou, Henan 450001, China.
+40028036	Kang	State Key Laboratory of Esophageal Cancer Prevention & Treatment, Key Laboratory of Advanced Drug Preparation Technologies, Ministry of Education of China, Key Laboratory of Henan Province for Drug Quality Control and Evaluation, Zhengzhou, Henan 450001, China.
+40028036	He	State Key Laboratory of Esophageal Cancer Prevention & Treatment, Key Laboratory of Advanced Drug Preparation Technologies, Ministry of Education of China, Key Laboratory of Henan Province for Drug Quality Control and Evaluation, Zhengzhou, Henan 450001, China.
+40028036	Guo	State Key Laboratory of Esophageal Cancer Prevention & Treatment, Key Laboratory of Advanced Drug Preparation Technologies, Ministry of Education of China, Key Laboratory of Henan Province for Drug Quality Control and Evaluation, Zhengzhou, Henan 450001, China.
+40028036	Liu	State Key Laboratory of Esophageal Cancer Prevention & Treatment, Key Laboratory of Advanced Drug Preparation Technologies, Ministry of Education of China, Key Laboratory of Henan Province for Drug Quality Control and Evaluation, Zhengzhou, Henan 450001, China.
+40028036	Mamun	State Key Laboratory of Esophageal Cancer Prevention & Treatment, Key Laboratory of Advanced Drug Preparation Technologies, Ministry of Education of China, Key Laboratory of Henan Province for Drug Quality Control and Evaluation, Zhengzhou, Henan 450001, China.
+40028036	Gao	State Key Laboratory of Esophageal Cancer Prevention & Treatment, Key Laboratory of Advanced Drug Preparation Technologies, Ministry of Education of China, Key Laboratory of Henan Province for Drug Quality Control and Evaluation, Zhengzhou, Henan 450001, China.
+40027489	Gu	Sansure Biotech Incorporation Changsha Hunan China.
+40027489	Sun	New Direction Biotechnology (Tianjin) Co., Ltd Tianjin China.
+40027489	Yang	Sansure Biotech Incorporation Changsha Hunan China.
+40027149	Boukovala	Servier Deutschland GmbH, Germany.
+40025391	Dirnberger	Amgen GmbH, Munich, Germany.
+40025388	Déruaz-Luyet	Boehringer Ingelheim International GmbH, Ingelheim, Germany.
+40025370	Lokireddy	Oncosmis Biotech Private Limited, Plot No 3, Genpact Rd, IDA Uppal, Hyderabad, TG, 500 007, India.
+40025370	Kunchala	Oncosmis Biotech Private Limited, Plot No 3, Genpact Rd, IDA Uppal, Hyderabad, TG, 500 007, India. skunchala@oncosimis.com.
+40024585	Besenmatter	AB Enzymes GmbH, Feldbergstraße 78, 64293 Darmstadt, Germany.
+40024585	Floehr	Everwave GmbH, Strüverweg 116, 52070 Aachen, Germany.
+40024571	Coghlan	Lilly Research Laboratories, Eli Lilly and Company, Indianapolis, IN 46285, USA.
+40024571	Finan	Lilly Research Laboratories, Eli Lilly and Company, Indianapolis, IN 46285, USA.
+40024571	Gimeno	Lilly Research Laboratories, Eli Lilly and Company, Indianapolis, IN 46285, USA.
+40024571	Samms	Lilly Research Laboratories, Eli Lilly and Company, Indianapolis, IN 46285, USA.
+40024571	Sloop	Lilly Research Laboratories, Eli Lilly and Company, Indianapolis, IN 46285, USA.
+40024561	Berryman	L2 Consulting Inc., Montreal, Canada.
+40024487	Maddiboyina	Scientific Writing Services, Medical and Scientific Communications CoE, Freyr Global Regulatory Solutions & Services, Phoenix SEZ, Hyderabad, India.
+40022849	Zhou	Weihuakang (Shenzhen) Biotech. Co., Ltd., Shenzhen 518001, China.
+40022554	Berthold	Planted in Science Consulting, LLC, St. Augustine, FL, USA.
+40021475	Jin	Chengdu Chipscreen Pharmaceutical Corp., Ltd., Chengdu, Sichuan, P. R. China.
+40021475	Li	Chengdu Chipscreen Pharmaceutical Corp., Ltd., Chengdu, Sichuan, P. R. China.
+40021475	Chen	Chengdu Chipscreen Pharmaceutical Corp., Ltd., Chengdu, Sichuan, P. R. China.
+40021475	Huang	Chengdu Chipscreen Pharmaceutical Corp., Ltd., Chengdu, Sichuan, P. R. China.
+40021450	Dong	Shandong Hongjitang Pharmaceutical Group Co. Ltd., Jinan, China.
+40021450	Cao	Shandong Hongjitang Pharmaceutical Group Co. Ltd., Jinan, China.
+40021450	Meng	Shandong Hongjitang Pharmaceutical Group Co. Ltd., Jinan, China.
+40020813	Zhang	Shaoxing Doctoral Innovation Station, Minsheng Group Shaoxing Pharmaceutical Co., Ltd., Shaoxing 312000, China.
+40020813	Xu	Shaoxing Doctoral Innovation Station, Minsheng Group Shaoxing Pharmaceutical Co., Ltd., Shaoxing 312000, China.
+40019914	Kim	CNCure Biotech, Hwasun, Korea.
+40019914	Jeong	CNCure Biotech, Hwasun, Korea.
+40018848	Wei	Jiangsu Renocell Biotech Co., Ltd, Nanjing, 211100, China.
+40018848	Wang	Jiangsu Renocell Biotech Co., Ltd, Nanjing, 211100, China.
+40018509	Jiang	Jilin Beiyao Traditional Chinese Medicine Pharmaceutical Group Co., Changchun, Jilin, China.
+40016576	Lau	Humanity and Health Medical Group, Humanity and Health Clinical Trial Center, Hong Kong SAR, China.
+40016440	Potts Bleakman	Eli Lilly and Company, Indianapolis, IN, USA.
+40016440	Hunter Gibble	Eli Lilly and Company, Indianapolis, IN, USA.
+40016440	Nedeljkovic Protic	Eli Lilly and Company, Indianapolis, IN, USA.
+40016440	Redondo	Eli Lilly and Company, Indianapolis, IN, USA.
+40015904	Zou	Harbin Pharmaceutical Group Traditional Chinese Medicine co., ltd, Harbin 150030, China.
+40014275	Phillips Beyer	Innovus Consulting Ltd, London, UK.
+40014123	Madhuri	Piramal Pharma Solutions in Sellersville, Sellersville, PA, USA.
+40012418	Wei	Jiangsu Renocell Biotech Co., Ltd, Nanjing, 211100, P. R. China.
+40012418	Wang	Jiangsu Renocell Biotech Co., Ltd, Nanjing, 211100, P. R. China.
+40011408	Bautista	Process Analytical Technologies at Synthetic Molecules Technical Development, F. Hoffmann-La Roche AG, Basel, Switzerland. manel.bautista@roche.com.
+40011408	Caille	Synthetics Drug Substance Technologies, Amgen Inc., Thousand Oaks, CA, U.S.A.. scaille@amgen.com.
+40011408	Corredor	Integrated Technologies and Engineering, Drug Product Development, Bristol-Myers Squibb, New Brunswick, New Jersey, U.S.A.
+40011408	Johnson	CMC Statistics, Statistical Sciences, Pharma Development, AbbVie Inc., North Chicago, IL, U.S.A.
+40011408	Keubler	Product Development, Science & Technology, AbbVie Deutschland GmbH & Co.KG, Ludwigshafen, Germany.
+40011408	Pfund	Analytical and Commercialization Technologies, Analytical Commercialization Development and Supply, Merck and Co., Inc., Rahway, NJ, U.S.A.
+40011371	Clarke	Certara Predictive Technologies Division, Certara UK, Sheffield, UK.
+40011371	Mowli	Capstone Development Services Co, LLC, Rosemont, IL, USA.
+40011369	Clarke	Certara Predictive Technologies Division, Certara UK, Sheffield, UK.
+40011369	Ganley	Nanopharm Ltd, an Aptar Pharma Company, Grange Road, Cwmbran, NP44 3WY, UK.
+40011266	MacLoughlin	Aerogen, IDA Business Park, Dangan, Galway, H91 HE94, Ireland.
+40009268	Issa	Biogen GmbH, Baar, Switzerland.
+40009268	Mora	Biogen GmbH, Baar, Switzerland.
+40009268	Keady	Biogen GmbH, Baar, Switzerland.
+40009268	Rezk	Biogen GmbH, Baar, Switzerland.
+40009037	Buckley	Buckley Group Enterprises LLC, Phoenix, AZ.
+40008870	Packman	Janssen Research & Development, LLC, Newton, MA, United States.
+40007771	De Vuono	Know Center Research GmbH, Graz, Austria.
+40007771	Gaspari	Know Center Research GmbH, Graz, Austria.
+40007771	Kröll	Chiesi Farmaceutici S.p.A, Parma, Italy.
+40007771	Jantscher	Chiesi Farmaceutici S.p.A, Parma, Italy.
+40007771	Nicolardi	Know Center Research GmbH, Graz, Austria.
+40007771	Mazzola	Know Center Research GmbH, Graz, Austria.
+40007771	Rauch	Chiesi Farmaceutici S.p.A, Parma, Italy.
+40007771	Sabol	Chiesi Farmaceutici S.p.A, Parma, Italy.
+40007771	Salhofer	Chiesi Farmaceutici S.p.A, Parma, Italy.
+40007771	Mariani	Know Center Research GmbH, Graz, Austria.
+40007643	Sverdlov	Early Development Analytics, Novartis Pharmaceutical Corporation, East Hanover, NJ, United States.
+40007206	Alaghi	Systematic Review and Meta-analysis Expert Group (SRMEG), Universal Scientific Education and Research Network (USERN), Tehran, Iran.
+40006733	Erbe	RTI Health Solutions, Research Triangle Park, NC 27709, USA.
+40006560	Bansal	Formulation Research and Development, Perrigo Company plc, Allegan, MI 49010, USA.
+40006553	Godoy	Centro de Investigación Austral Biotech, Facultad de Ciencias, Universidad Santo Tomás, Avenida Ejército 146, Santiago 8370003, Chile.
+40006553	Arenas Colarte	Centro de Investigación Austral Biotech, Facultad de Ciencias, Universidad Santo Tomás, Avenida Ejército 146, Santiago 8370003, Chile.
+40006553	Bruna Larenas	Centro de Investigación Austral Biotech, Facultad de Ciencias, Universidad Santo Tomás, Avenida Ejército 146, Santiago 8370003, Chile.
+40006553	Caro Fuentes	Centro de Investigación Austral Biotech, Facultad de Ciencias, Universidad Santo Tomás, Avenida Ejército 146, Santiago 8370003, Chile.
+40006546	Scholz	ePrax GmbH, Dessauerstrasse 9, 80992 Munich, Germany.
+40006537	Lee	Center of Research and Development, A Pharma Inc., Goyang-si 10326, Gyeonggi-do, Republic of Korea.
+40006537	Lee	Center of Research and Development, A Pharma Inc., Goyang-si 10326, Gyeonggi-do, Republic of Korea.
+40006526	Stopfer	Boehringer Ingelheim Pharma GmbH & Co. KG, 88400 Biberach an der Riß, Germany.
+40006517	Steiner	Innovative Research and Development, Teva Pharmaceutical Industries, Ltd., Netanya 420483, Israel.
+40006517	Bibi	Innovative Research and Development, Teva Pharmaceutical Industries, Ltd., Netanya 420483, Israel.
+40006517	Merenlender Wagner	Innovative Research and Development, Teva Pharmaceutical Industries, Ltd., Netanya 420483, Israel.
+40006517	Farkas	Innovative Research and Development, Teva Pharmaceutical Industries, Ltd., Netanya 420483, Israel.
+40006517	Rudnick-Glick	Innovative Research and Development, Teva Pharmaceutical Industries, Ltd., Netanya 420483, Israel.
+40006517	Loupe	Innovative Research and Development, Teva Pharmaceutical Industries, Ltd., Netanya 420483, Israel.
+40006517	Hallak	Innovative Research and Development, Teva Pharmaceutical Industries, Ltd., Netanya 420483, Israel.
+40006065	Niemeyer	Bruker Daltonics GmbH & Co. KG, 28359 Bremen, Germany.
+40006065	Stumpo	Bruker Scientific, LLC, Billerica, MA 01821, USA.
+40006065	Biber	AbbVie Deutschland GmbH & Co. KG, 67061 Ludwigshafen, Germany.
+40006065	Klein	AbbVie Deutschland GmbH & Co. KG, 67061 Ludwigshafen, Germany.
+40005992	Yassin	Hematology Section, National Centre for Cancer Care and Research, Hamad Medical Corporation, Doha P.O. Box 3050, Qatar.
+40005954	Morazzoni	Divisione Nutraceutica, Distillerie Umberto Bonollo S.p.A, Via G. Galilei 6, 35035 Mestrino, Italy.
+40005923	de Souza Chagas	Southeast Livestock Unit, EMBRAPA-Brazilian Agricultural Research Corporation, Rodovia Washington Luiz, Km 234, São Carlos 13560-970, SP, Brazil.
+40005915	Thitisak	K.M.P.BIOTECH Co., Ltd. 188/9 Moo 2, Klongtumru, Muangchonburi, Chonburi 20000, Thailand.
+40005915	Poonsuk	K.M.P.BIOTECH Co., Ltd. 188/9 Moo 2, Klongtumru, Muangchonburi, Chonburi 20000, Thailand.
+40005281	Bada	Group of Pharmacology of Chronic Diseases (CD Pharma), Molecular Medicine and Chronic Diseases Research Centre (CIMUS), Universidade de Santiago de Compostela, 15782 Santiago de Compostela, Spain.
+40005281	Picos	Group of Pharmacology of Chronic Diseases (CD Pharma), Molecular Medicine and Chronic Diseases Research Centre (CIMUS), Universidade de Santiago de Compostela, 15782 Santiago de Compostela, Spain.
+40005281	Viña	Group of Pharmacology of Chronic Diseases (CD Pharma), Molecular Medicine and Chronic Diseases Research Centre (CIMUS), Universidade de Santiago de Compostela, 15782 Santiago de Compostela, Spain.
+40004031	Kim	Epi Biotech Co., Ltd., Incheon 21983, Republic of Korea.
+40004031	Zheng	Epi Biotech Co., Ltd., Incheon 21983, Republic of Korea.
+40004031	Song	Epi Biotech Co., Ltd., Incheon 21983, Republic of Korea.
+40004031	Sung	Epi Biotech Co., Ltd., Incheon 21983, Republic of Korea.
+40004029	Carnazza	General Nutraceutical Technology, LLC, Elmsford, NY 10523, USA.
+40004029	Werner	General Nutraceutical Technology, LLC, Elmsford, NY 10523, USA.
+40004029	Yang	General Nutraceutical Technology, LLC, Elmsford, NY 10523, USA.
+40003451	Bulaj	OMNI Self-Care, LLC, Salt Lake City, UT 84106, USA.
+40002923	Batista	Finao Biotech Lda, Campus Politécnico 10, BioBIP, 7300-555 Portalegre, Portugal.
+40002923	Mata	Finao Biotech Lda, Campus Politécnico 10, BioBIP, 7300-555 Portalegre, Portugal.
+40002923	Transmontano	Finao Biotech Lda, Campus Politécnico 10, BioBIP, 7300-555 Portalegre, Portugal.
+40002167	Yamada	Shino-Test Corporation, Sagamihara 252-0331, Japan.
+40001394	Murungi	USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program, Management Sciences for Health, Kampala P.O. Box 71419, Uganda.
+40001394	Waswa	USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program, Management Sciences for Health, Kampala P.O. Box 71419, Uganda.
+40001394	Kasujja	USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program, Management Sciences for Health, Kampala P.O. Box 71419, Uganda.
+40001394	Kaweesi	USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program, Management Sciences for Health, Kampala P.O. Box 71419, Uganda.
+40001394	Kiggundu	USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program, Management Sciences for Health, Kampala P.O. Box 71419, Uganda.
+40001394	Konduri	USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program, Management Sciences for Health, Arlington, VA 22203, USA.
+40001361	Arpini	Indena S.p.A., Via Don Minzoni 6, 20090 Settala, Italy.
+40001361	Bosisio	Indena S.p.A., Via Don Minzoni 6, 20090 Settala, Italy.
+40001361	Pagni	Indena S.p.A., Via Don Minzoni 6, 20090 Settala, Italy.
+40000636	Liu	MGI Group, San Jose, CA, USA.
+40000636	Shi	MGI Group, San Jose, CA, USA.
+40000636	Chen	MGI Group, San Jose, CA, USA.
+40000636	Yu	MGI Group, San Jose, CA, USA.
+40000636	Xu	MGI Group, San Jose, CA, USA.
+40000636	Junkin	MGI Group, San Jose, CA, USA.
+40000636	Wang	MGI Group, San Jose, CA, USA.
+40000636	Wu	MGI Group, San Jose, CA, USA.
+40000636	Liu	MGI Group, San Jose, CA, USA.
+40000636	Hou	MGI Group, San Jose, CA, USA.
+39999772	Sapienza	The Drug and Chemical Advisory Group LLC, Fairfax, Virginia.
+39999432	Dhawale	Global Business Development, Techinvention Lifecare Private Limited, Mumbai, India.
+39999432	Shah	Strategic Medical Affairs, Techinvention Lifecare Private Limited, Mumbai, India.
+39999432	Sharma	Strategic Projects, Techinvention Lifecare Private Limited, Mumbai, India.
+39999432	Sikriwal	Research and Development, Techinvention Lifecare Private Limited, Mumbai, India.
+39999432	Kumar	Research and Development, Techinvention Lifecare Private Limited, Mumbai, India.
+39999432	Bhagawati	Research and Development, Techinvention Lifecare Private Limited, Mumbai, India.
+39999432	Dhar	Research and Development, Techinvention Lifecare Private Limited, Mumbai, India.
+39999432	Shetty	Regulatory Affairs, Techinvention Lifecare Private Limited, Mumbai, India.
+39999432	Ahmed	Business Development and Strategy, Techinvention Lifecare Private Limited, Mumbai, India.
+39998742	Akhavan-Sigari	Dr. Schneiderhan GmbH and ISAR Klinikum, Munich, Germany.
+39998707	Maiti	Suraksha Diagnostics Pvt Ltd, Newtown, Rajarhat, Kolkata, India.
+39997561	Sperandeo	Pharmaceutical Factory, La Maddalena S.P.A., Via San Lorenzo Colli, 312/d, 90146 Palermo, Italy.
+39995974	Ben Hsouna	Laboratory of Biotechnology and Plant Improvement Centre of Biotechnology of Sfax Sfax Tunisia.
+39995897	Nasr	GLOVAL LLC, Broomfield, Colorado, USA.
+39994659	Akhavan-Sigari	Dr. Schneiderhan GmbH and ISAR Klinikum, Munich, Germany.
+39993805	Weidle	Roche Pharma Research and Early Development, Roche Innovation Center Munich, Penzberg, Germany; weidle49@t-online.de fabian.birzele@roche.com.
+39993805	Birzele	Roche Pharma Research and Early Development, Pharmaceutical Sciences, Roche Innovation Center Basel, Basel, Switzerland weidle49@t-online.de fabian.birzele@roche.com.
+39993712	Alkhatib	Boehringer Ingelheim Pharma GmbH & Co. KG, Birkendorfer Str. 65 | 88397 Biberach, Germany.
+39993712	Egen	Boehringer Ingelheim Pharma GmbH & Co. KG, Birkendorfer Str. 65 | 88397 Biberach, Germany.
+39993712	Rosenberger	Sanofi-Aventis Deutschland GmbH, Biologics Drug Product Development & Manufacturing, Industriepark Hoechst, K703. Brüningstr. 50, 65926 Frankfurt am Main, Germany.
+39993543	Li	Gooddoctor Pharmaceutical Group Co., Ltd., Chengdu 610073, China.
+39993543	Zhang	Gooddoctor Pharmaceutical Group Co., Ltd., Chengdu 610073, China.
+39993543	Zhu	Gooddoctor Pharmaceutical Group Co., Ltd., Chengdu 610073, China.
+39993543	Liu	Gooddoctor Pharmaceutical Group Co., Ltd., Chengdu 610073, China.
+39993543	Wu	Gooddoctor Pharmaceutical Group Co., Ltd., Chengdu 610073, China.
+39993543	Zhang	Gooddoctor Pharmaceutical Group Co., Ltd., Chengdu 610073, China.
+39992481	Greene	Exact Sciences Corporation, Madison, WI, USA. magreene@exactsciences.com.
+39992481	Pew	Exact Sciences Corporation, Madison, WI, USA.
+39992481	Ozbay	Exact Sciences Corporation, Madison, WI, USA.
+39992481	Johnson	Exact Sciences Corporation, Madison, WI, USA.
+39992481	Limburg	Exact Sciences Corporation, Madison, WI, USA.
+39992401	Wu	Yantai Lannacheng Biotechnology Co., Ltd., Yantai, 264100, China. xmwu@dcb-group.com.
+39991188	Jin	China Mobile Group Jiangsu Co. Ltd. Nanjing Jiangsu China.
+39990290	Page	Luoda Pharma, Newtown, NSW, 2042, Australia.
+39989458	Roa	AIDS Network Coordinating Center, DLH Corporation, Bethesda, Maryland, USA.
+39988639	Yarasheva	Microbiology Laboratory, Navruz International Corp. LLC, Salar settlement, Kibray, 111219, Uzbekistan.
+39988359	Decraecker	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	Cuende Estévez	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	Van Remoortel	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	Quan	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	Stakenborg	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	Wang	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	De Marco	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	Denadai-Souza	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	Viola	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	Tsukimi	Takeda Pharmaceutical Company Limited, Osaka, Japan.
+39988359	Hicks	Takeda Pharmaceutical Company Limited, Osaka, Japan.
+39988359	Winchester	Takeda Pharmaceutical Company Limited, Osaka, Japan.
+39988359	Wykosky	Takeda Pharmaceutical Company Limited, Osaka, Japan.
+39988359	Fanjul	Takeda Pharmaceutical Company Limited, Osaka, Japan.
+39988359	Gibson	Takeda Pharmaceutical Company Limited, Osaka, Japan.
+39988359	Wouters	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	Vanden Berghe	Laboratory for Enteric Neuroscience (LENS), Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium, KU Leuven, Leuven, Flanders, Belgium.
+39988359	Hussein	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium.
+39988359	Boeckxstaens	Center for Intestinal Neuroimmune Interactions, Translational Research in GastroIntestinal Disorders (TARGID), Chronic Diseases, Metabolism, and Ageing (CHROMETA), KU Leuven Biomedical Sciences Group, Leuven, Flanders, Belgium guy.boeckxstaens@kuleuven.be.
+39987014	Oniangue-Ndza	Bristol-Myers Squibb Company, Steinhausen, Switzerland.
+39986690	Xiao	State Key Laboratory on Technologies for Chinese Medicine Pharmaceutical Process Control and Intelligent Manufacture, Jiangsu Kanion Pharmaceutical Co., Ltd., Lianyungang 222047, China. Electronic address: kanionlunwen@163.com.
+39986591	Yao	State Key Laboratory of Integration and Innovation of Classic Formula and Modern Chinese Medicine, Lunan Pharmaceutical Group Co. LTD., Linyi, China. Electronic address: yaojingchun@yeah.net.
+39985867	Kimura	Astellas Pharma Inc., 21 Miyukigaoka, Tsukuba-shi, Ibaraki 305-8585, Japan.
+39985867	Noda	Astellas Pharma Inc., 21 Miyukigaoka, Tsukuba-shi, Ibaraki 305-8585, Japan.
+39985867	Murakami	Astellas Pharma Inc., 21 Miyukigaoka, Tsukuba-shi, Ibaraki 305-8585, Japan.
+39985867	Miyoshi	Astellas Pharma Inc., 21 Miyukigaoka, Tsukuba-shi, Ibaraki 305-8585, Japan.
+39985507	Signorovitch	Analysis Group, Boston, Massachusetts, USA.
+39985184	Daungsupawong	Private Academic and Editorial Consultant, Phonhong, Laos.
+39984798	Issa	Issa Research & Consulting, LLC, Springfield, VA, USA.
+39984798	Kwong	PCKDerm LLC, Jacksonville, FL, USA.
+39982834	Horan	Karuna Therapeutics, A Bristol Meyers Squibb Company, USA.
+39982834	Brannan	Janssen Research & Development, LLC, a Johnson & Johnson company, San Diego, USA.
+39982834	Drevets	Janssen Research & Development, LLC, a Johnson & Johnson company, San Diego, USA.
+39982834	Sauder	Karuna Therapeutics, A Bristol Meyers Squibb Company, USA.
+39982834	Tiller	Janssen Research & Development, LLC, a Johnson & Johnson company, San Diego, USA.
+39982567	Trairatphisan	Abbvie Deutschland, GmbH & Co KG, Ludwigshafen, Germany.
+39982567	Schaefer	Abbvie Deutschland, GmbH & Co KG, Ludwigshafen, Germany.
+39982567	Bodié	Abbvie Deutschland, GmbH & Co KG, Ludwigshafen, Germany.
+39982567	Breidenbach	Abbvie Deutschland, GmbH & Co KG, Ludwigshafen, Germany.
+39982567	Reich	Abbvie Deutschland, GmbH & Co KG, Ludwigshafen, Germany.
+39982567	Clausznitzer	Abbvie Deutschland, GmbH & Co KG, Ludwigshafen, Germany.
+39982315	Jakobsson	Takeda Pharma AB, Lindhagensgatan 120, 112 51 Stockholm, Sweden.
+39981355	Srivastava	Formulation Research and Development, Sun Pharmaceutical Industries Ltd, Gurugram, India.
+39981355	Bedi	Formulation Research and Development, Sun Pharmaceutical Industries Ltd, Gurugram, India.
+39980062	Lennox	Geron Corporation, Foster City, California, USA.
+39980062	Sun	Geron Corporation, Foster City, California, USA.
+39980062	Huang	Geron Corporation, Foster City, California, USA.
+39980062	Behrs	Geron Corporation, Foster City, California, USA.
+39980062	Wan	Geron Corporation, Foster City, California, USA.
+39980062	Berry	Geron Corporation, Foster City, California, USA.
+39980062	Feller	Geron Corporation, Foster City, California, USA.
+39980062	Morcos	Morcos Pharmaceutical Consulting, LLC, Marlboro, New Jersey, USA.
+39979532	Mattson	Biomolecular Interaction Group, Protein Sciences, Biotherapeutics and Genetic Medicine, AbbVie, Worcester, MA, 01605, USA.
+39979532	Clabbers	Biomolecular Interaction Group, Protein Sciences, Biotherapeutics and Genetic Medicine, AbbVie, Worcester, MA, 01605, USA.
+39978867	Gao	Beijing Zhonghai Biotech Co., Ltd., Beijing 100081, China.
+39978867	Liu	Inner Mongolia Bigvet Biotech Co., Ltd., Inner Mongolia 011500, China.
+39978867	Wang	Inner Mongolia Bigvet Biotech Co., Ltd., Inner Mongolia 011500, China.
+39978707	Ejima	Sysmex Corporation, Technology Innovation, 1-17-8 Shinkiba, Koto-ku, Tokyo, 136-0082, Japan.
+39977883	Jenkins	Neuroscience Group.
+39976874	Allemann	Departement Pharmazeutische Wissenschaften, Pharmaceutical Care Research Group, Universität Basel, Klingelbergstrasse 50, 4056, Basel, Switzerland. s.allemann@unibas.ch.
+39976865	Korfel	Eli Lilly and Company, Bad Homburg, Germany. korfel_agnieszka@lilly.com.
+39976865	Raab	Eli Lilly and Company, Bad Homburg, Germany.
+39976528	Ries	Medicinal Chemistry, Boehringer Ingelheim Pharma GmbH & Co KG, Birkendorfer Str 65, 88397 Biberachan der Riss, Germany.
+39973479	Temin	Chiesi Canada Corporation, Toronto, Canada.
+39973479	Fradette	Chiesi Canada Corporation, Toronto, Canada.
+39973479	Tricta	Chiesi Canada Corporation, Toronto, Canada.
+39973450	Gomez	Emerging Markets Asia Specialty Care, Global Medical Affairs, Pfizer Private Limited, Singapore, Singapore.
+39972379	Handisides	Innoviva Specialty Therapeutics, Inc - an Affiliate of La Jolla Pharmaceutical Company, Waltham, MA, USA.
+39972379	Adams	Innoviva Specialty Therapeutics, Inc - an Affiliate of La Jolla Pharmaceutical Company, Waltham, MA, USA.
+39972379	Hodges	Innoviva Specialty Therapeutics, Inc - an Affiliate of La Jolla Pharmaceutical Company, Waltham, MA, USA.
+39971965	Gago-Dominguez	Cancer Genetics and Epidemiology Group, Genomic Medicine Group, Fundación Pública Galega de Medicina Xenómica, Fundación Instituto de Investigación Sanitaria de Santiago de Compostela (FIDIS), Complejo Hospitalario Universitario de Santiago, SERGAS, Santiago de Compostela, Spain.
+39971671	Hyde	TW1 Healthcare Consulting Ltd., London, UK.
+39971671	van Beek	TW1 Healthcare Consulting Ltd., London, UK.
+39969783	Hagen	Regeneron GmbH, Munich, Germany.
+39968177	Hassanzadeh	Stem Cell and Regenerative Medicine Research Group, Academic Center for Education, Culture and Research (ACECR)-Khorasan Razavi, Mashhad, Iran.
+39967851	Ma	Suzhou Abogen Biosciences Company, Suzhou 215123, China.
+39967851	Zuo	Suzhou Abogen Biosciences Company, Suzhou 215123, China.
+39967851	Gao	Suzhou Abogen Biosciences Company, Suzhou 215123, China.
+39967851	Ying	Suzhou Abogen Biosciences Company, Suzhou 215123, China.
+39967209	Klaar	NDA Group, Upplands Väsby, Sweden.
+39966477	Toda	Toshiba Nano-analysis Corporation, 1 Komukai Toshiba-Cho, Saiwai-ku, Kawasaki, 212-8583, Japan.
+39966477	Morikawa	Toshiba Nano-analysis Corporation, 1 Komukai Toshiba-Cho, Saiwai-ku, Kawasaki, 212-8583, Japan.
+39966477	Iwasa	Toshiba Nano-analysis Corporation, 1 Komukai Toshiba-Cho, Saiwai-ku, Kawasaki, 212-8583, Japan.
+39966020	Huynh	Analysis Group, Inc., Boston, MA.
+39966020	Gao	Analysis Group, Inc., Boston, MA.
+39966020	Ramasubramanian	Analysis Group, Inc., Boston, MA.
+39966020	Duh	Analysis Group, Inc., Boston, MA.
+39965438	Dahlke	Impulze GmbH, Rämistrasse 50, 8001 Zürich, Switzerland. Electronic address: Dahlke@bluewin.ch.
+39965336	Zhang	Gansu Pharmaceutical Group Guofang Inspection and Testing Co., Ltd, Gansu 730000, PR China.
+39963469	Bahavarnia	Asian Nano Ink (ANI) Company Tabriz Iran.
+39963330	Mösges	ClinCompetence Cologne GmbH, Cologne, Germany.
+39962990	Yang	Chia Tai Tianqing Pharmaceutical Group Co., LTD, Nanjing, 211100, Jiangsu, China.
+39961726	Simpson	Global Pharma Segment, Phillips Medisize, Cambridge, UK.
+39961719	Mucklow	Patient Advocacy Group, Oncoplastic Breast Consortium, Basel, Switzerland.
+39961719	Shaw	Patient Advocacy Group, Oncoplastic Breast Consortium, Basel, Switzerland.
+39960672	Quintana	Berry Consultants LLC, Austin, Texas.
+39960672	Saville	Berry Consultants LLC, Austin, Texas.
+39960672	Detry	Berry Consultants LLC, Austin, Texas.
+39960672	Vestrucci	Berry Consultants LLC, Austin, Texas.
+39960672	Marion	Berry Consultants LLC, Austin, Texas.
+39960672	McGlothlin	Berry Consultants LLC, Austin, Texas.
+39960672	Harvey	UCB Pharma, Cambridge, Massachusetts.
+39960672	Patel	UCB Pharma, Cambridge, Massachusetts.
+39960672	Duda	UCB Pharma, Cambridge, Massachusetts.
+39959117	Gulotta	Molecular Informatics Group, Fondazione Ri.MED, Corso Calatafimi 414, Palermo 90129, Italy.
+39959117	Perricone	Molecular Informatics Group, Fondazione Ri.MED, Corso Calatafimi 414, Palermo 90129, Italy.
+39959029	Ho	STAT-TU Inc., Elora, Ontario, Canada.
+39958474	Pieper	Boehringer Ingelheim Pharma & Co., Mainz, Germany.
+39957306	Quancard	Global Discovery Chemistry, Novartis Biomedical Research, Novartis Pharma AG, Novartis Campus, 4056, Basel, Switzerland.
+39957306	Gnamm	Medicinal Chemistry, Boehringer Ingelheim Pharma GmbH & Co. KG, Birkendorfer Straße 65, 88397, Biberach an der Riß, Germany.
+39957306	Koolman	Medicinal Chemistry, Boehringer Ingelheim Pharma GmbH & Co. KG, Birkendorfer Straße 65, 88397, Biberach an der Riß, Germany.
+39957306	Willwacher	Medicinal Chemistry, Boehringer Ingelheim Pharma GmbH & Co. KG, Birkendorfer Straße 65, 88397, Biberach an der Riß, Germany.
+39957239	Kumar	Formulation Research & Development-Non Orals, Sun Pharmaceuticals Industries Limited, Vadodara, India.
+39957239	Handa	Formulation Research & Development-Non Orals, Sun Pharmaceuticals Industries Limited, Vadodara, India.
+39957193	Huttunen	Herantis Pharma Plc, Espoo, Finland.
+39956958	Guo	Jiangsu Renocell Biotech Co. Ltd., Nanjing, China.
+39956958	Su	Jiangsu Renocell Biotech Co. Ltd., Nanjing, China.
+39956925	Haid	Preclinical Modeling & Simulation, Pharma R&D, Bayer AG, Berlin, Germany.
+39956925	Reichel	Preclinical Modeling & Simulation, Pharma R&D, Bayer AG, Berlin, Germany.
+39956272	Zhang	Hubei Jiangxia Laboratory, Wuhan, 430200, China; HuaWu Biotech Wuhan, 430200, China.
+39956272	Li	Hubei Jiangxia Laboratory, Wuhan, 430200, China; HuaWu Biotech Wuhan, 430200, China.
+39956272	Ma	Hubei Jiangxia Laboratory, Wuhan, 430200, China; HuaWu Biotech Wuhan, 430200, China.
+39956272	Zheng	Hubei Jiangxia Laboratory, Wuhan, 430200, China; HuaWu Biotech Wuhan, 430200, China.
+39955871	Armengaud	Université Paris-Saclay, Département Médicaments et Technologies pour la Santé, CEA, INRAE, SPI, Bagnols-sur-Cèze 30200, France. Electronic address: jean.armengaud@cea.fr.
+39955871	Kielbasa	Université Paris-Saclay, Département Médicaments et Technologies pour la Santé, CEA, INRAE, SPI, Bagnols-sur-Cèze 30200, France. Electronic address: melodie.kielbasa@cea.fr.
+39955871	Mechichi	Université de Sfax, Ecole Nationale d'Ingénieurs de Sfax, Laboratoire de Biochimie et de Génie Enzymatique des Lipases, Sfax 3038, Tunisia. Electronic address: tahar.mechichi@enis.rnu.tn.
+39955697	Fouladi	GI Pharmacology Interest Group (GPIG), Universal Scientific Education and Research Network (USERN), Tehran, Iran.
+39955697	Momtaz	GI Pharmacology Interest Group (GPIG), Universal Scientific Education and Research Network (USERN), Tehran, Iran.
+39955638	Roytrakul	Functional Proteomics Technology Laboratory, Functional Ingredients and Food Innovation Research Group, National Center for Genetic Engineering and Biotechnology, National Science and Technology Development Agency, Pathum Thani, Thailand.
+39955581	Wu	Beijing Qinglian Biotech Co., Ltd, Beijing, China.
+39955581	Sun	Beijing Qinglian Biotech Co., Ltd, Beijing, China.
+39955314	Liu	Biomarker Technologies Ltd, Beijing, 101300, China.
+39953865	Bhandary	Dr A.V. Baliga Group of Institutions, India.
+39953340	Kipping	MilliporeSigma a Business of Merck KGaA, Frankfurter Strasse 250, 64293, Darmstadt, Germany.
+39952924	Andiappan	Singapore Immunology Network (SIgN), Agency for Science, Technology and Research (A*STAR), Singapore, Singapore.
+39952917	Haider	Breast Cancer Research Bioinformatics Group, Chester Beatty Laboratories, London, SW3 6JB, UK.
+39952620	Dai	Hangzhou Jajale Biotech Co., Ltd, Hangzhou 310000, China.
+39952620	Gong	Hangzhou Jajale Biotech Co., Ltd, Hangzhou 310000, China.
+39952620	Jiao	Hangzhou Jajale Biotech Co., Ltd, Hangzhou 310000, China. Electronic address: jiaosong@jajalebio.com.
+39952617	Xue	Nanjing Shineking Biotech Co., Ltd, Nanjing 210061, China.
+39952617	Cai	Guilin Fengrunlai Biotech Corp., Guilin 541000, China.
+39952115	Kashiwagi	Corporate Research and Development Division, Takasago International Corporation, 1-4-11 Nishiyawata, Hiratsuka City, Kanagawa, 254-0073, Japan.
+39952115	Terada	Corporate Research and Development Division, Takasago International Corporation, 1-4-11 Nishiyawata, Hiratsuka City, Kanagawa, 254-0073, Japan.
+39952115	Hoshino	Corporate Research and Development Division, Takasago International Corporation, 1-4-11 Nishiyawata, Hiratsuka City, Kanagawa, 254-0073, Japan.
+39951479	Kramer	F. Hoffmann-La Roche Ltd. Pharma Research and Early Development, Basel 4070, Switzerland.
+39951479	Lessel	Medicinal Chemistry, Boehringer Ingelheim Pharma GmbH & Co. KG, Biberach an der Riss 88397, Germany.
+39951479	Lewis	Global Discovery Chemistry, Novartis Pharma AG, Basel 4002, Switzerland.
+39951306	Blaylock	Blaylock Health Economics LLC, Reno, Nevada.
+39951212	Garcés	Roche Pharma Research and Early Development, Neuroscience and Rare Diseases, Roche Innovation Center Basel, Grenzacherstrasse 124, CH-4070, Basel, Switzerland.
+39950624	Wang	Drug Discovery, Hangzhou Purple Crystal Pharma, Hangzhou, Zhejiang, China.
+39950245	Rajurkar	Sun Pharma Laboratories Limited, Mumbai, India.
+39950245	Saha	Sun Pharma Laboratories Limited, Mumbai, India.
+39950245	Patel	Sun Pharma Laboratories Limited, Mumbai, India.
+39950245	Patil	Sun Pharma Laboratories Limited, Mumbai, India.
+39950245	Ghadge	Sun Pharma Laboratories Limited, Mumbai, India.
+39950245	Lakhwani	Sun Pharma Laboratories Limited, Mumbai, India.
+39950245	Mehta	Sun Pharma Laboratories Limited, Mumbai, India.
+39950245	Joglekar	Sun Pharmaceutical Industries Limited, Mumbai, India.
+39949812	Zhang	Key Laboratory of Modern Chinese Medicine Resources Research Enterprises, Tianjin 300402, China.
+39949410	Carrato	Creative Biotech Solutions Limited Liability Corporation (LLC), Monterey, CA, United States.
+39949275	Daungsupawong	Private Academic Consultant, Vientiane, Lao People's Democratic Republic.
+39948234	Yang	IQVIA Solutions Enterprise Management Consulting Shanghai Co Ltd, Shanghai, 200124, China.
+39948234	Yin	IQVIA Solutions Enterprise Management Consulting Shanghai Co Ltd, Shanghai, 200124, China.
+39947930	Xu	HaoQi Separation & Purification Technologies, Xiamen 361102, China.
+39947930	Xu	HaoQi Separation & Purification Technologies, Xiamen 361102, China.
+39947404	Yamamoto	Center of Excellence for Drug Metabolism, Pharmacokinetics and Modeling, Preclinical and Translational Sciences, Research, Takeda Pharmaceutical Company Limited, Kanagawa, Japan.
+39947404	Nakayama	Center of Excellence for Drug Metabolism, Pharmacokinetics and Modeling, Preclinical and Translational Sciences, Research, Takeda Pharmaceutical Company Limited, Kanagawa, Japan.
+39947404	Fujita	Center of Excellence for Drug Metabolism, Pharmacokinetics and Modeling, Preclinical and Translational Sciences, Research, Takeda Pharmaceutical Company Limited, Kanagawa, Japan.
+39947404	Goto	Center of Excellence for Drug Metabolism, Pharmacokinetics and Modeling, Preclinical and Translational Sciences, Research, Takeda Pharmaceutical Company Limited, Kanagawa, Japan.
+39947404	Iwasaki	Center of Excellence for Drug Metabolism, Pharmacokinetics and Modeling, Preclinical and Translational Sciences, Research, Takeda Pharmaceutical Company Limited, Kanagawa, Japan.
+39947404	Hirabayashi	Center of Excellence for Drug Metabolism, Pharmacokinetics and Modeling, Preclinical and Translational Sciences, Research, Takeda Pharmaceutical Company Limited, Kanagawa, Japan.
+39947331	Huang	Tasly Pharmaceutical Group CO., LTD., Tianjin 300410, China.
+39947331	Li	Tasly Pharmaceutical Group CO., LTD., Tianjin 300410, China.
+39946269	Chen	Scientific Research Laboratory, Shanghai Le-Surely Biotechnology Co. Ltd, Shanghai, China.
+39946269	Hu	Scientific Research Laboratory, Shanghai Le-Surely Biotechnology Co. Ltd, Shanghai, China.
+39946269	Li	Scientific Research Laboratory, Shanghai Le-Surely Biotechnology Co. Ltd, Shanghai, China.
+39946269	Gao	Zhejiang Moda Biotech Co. Ltd, Hangzhou, China.
+39946269	Xie	Scientific Research Laboratory, Shanghai Le-Surely Biotechnology Co. Ltd, Shanghai, China.
+39946269	Xie	Scientific Research Laboratory, Shanghai Le-Surely Biotechnology Co. Ltd, Shanghai, China.
+39945261	Dubey	Formulation Division, Invictus Oncology Private Limited, New Delhi-110092, India.
+39945261	Jain	Injectable Pharma Research, Lupin Research Park, Lupin Limited, Pune-412115, India.
+39943747	Ge	Sichuan Kelun-Biotech Biopharmaceutical Co. Ltd, Chengdu, China.
+39943747	Qing	Sichuan Kelun-Biotech Biopharmaceutical Co. Ltd, Chengdu, China.
+39943747	Wei	Sichuan Kelun-Biotech Biopharmaceutical Co. Ltd, Chengdu, China.
+39942973	Pang	Zhejiang Jianjiuhe Group Co., Ltd., Ningbo 315000, China.
+39942973	Yao	Zhejiang Jianjiuhe Group Co., Ltd., Ningbo 315000, China.
+39940668	Svinarev	Innotech-21 LLC, Lyubertsy, Prospect Oktyabrsky, 145, VI, 140000 Moscow, Russia.
+39938682	Rangappa	Topical Products Testing LLC, MS, USA.
+39937595	Norvez	Pôle National de Données de Biodiversité, UAR2006 PatriNat (OFB-MNHN-CNRS-IRD), Fondation pour la Recherche sur la Biodiversité, Muséum national d'Histoire naturelle, 75005 Paris, France.
+39937167	Tran	TPC Pharmaceutical Joint Stock Company, Ho Chi Minh City, Vietnam.
+39936621	Zheng	GoBroad Healthcare Group, Beijing, China.
+39936568	Wegener	Merz Aesthetics GmbH, Frankfurt am Main, Germany.
+39936568	Bussmeyer	Merz Aesthetics GmbH, Frankfurt am Main, Germany.
+39936091	Guo	Shineway Pharmaceutical Group Co., Ltd., Shijiazhuang, China.
+39936091	Li	Shineway Pharmaceutical Group Co., Ltd., Shijiazhuang, China.
+39935271	Cheng	New Drug Research & Development Co., Ltd., North China Pharmaceutical Group Corporation, Shijiazhuang, China.
+39934790	Wang	Echo Biotech Co., Ltd, Beijing, 102627, China.
+39934586	Ozbey	Pharmaceutical Sciences, Roche Pharma Research and Early Development, Roche Innovation Center Basel, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39934586	Meneses-Lorente	Pharmaceutical Sciences, Roche Pharma Research and Early Development, Roche Innovation Center Basel, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39934586	Simmons	Pharmaceutical Sciences, Roche Pharma Research and Early Development, Roche Innovation Center Basel, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39934586	McCallum	Pharmaceutical Sciences, Roche Pharma Research and Early Development, Roche Innovation Center Basel, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39934586	Parrott	Pharmaceutical Sciences, Roche Pharma Research and Early Development, Roche Innovation Center Basel, Grenzacherstrasse 124, 4070, Basel, Switzerland. neil_john.parrott@roche.com.
+39934586	Umehara	Pharmaceutical Sciences, Roche Pharma Research and Early Development, Roche Innovation Center Basel, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39933898	Rachakonda	German Breast Group, Neu-Isenburg, Germany.
+39933898	Weber	German Breast Group, Neu-Isenburg, Germany.
+39933898	Martin	Instituto de Investigacion Sanitaria Gregorio Marañon, CIBERONC, Universidad Complutense, Madrid, Spain; Spanish Breast Cancer Group, GEICAM, Madrid, Spain.
+39933898	Untch	Helios Kliniken Berlin-Buch, Berlin, Germany; AGO-B Study Group, Erlangen, Germany.
+39933898	Seiler	German Breast Group, Neu-Isenburg, Germany.
+39933898	Felder	German Breast Group, Neu-Isenburg, Germany.
+39933898	Holtschmidt	German Breast Group, Neu-Isenburg, Germany.
+39933898	Nekljudova	German Breast Group, Neu-Isenburg, Germany.
+39933898	Loibl	German Breast Group, Neu-Isenburg, Germany. Electronic address: sibylle.loibl@gbg.de.
+39933713	Symma	Pharma Deutschland e. V., Bonn, Germany.
+39933713	Steinhoff	Pharma Deutschland e. V., Bonn, Germany.
+39933529	Podzimkova	SOTIO Biotech a.s., 170 00 Prague, Czech Republic.
+39933529	Schoenenberger	SOTIO Biotech a.s., 170 00 Prague, Czech Republic.
+39933529	Kiemle-Kallee	SOTIO Biotech AG, 4056 Basel, Switzerland.
+39933529	Tillmanns	SOTIO Biotech AG, 4056 Basel, Switzerland.
+39933529	Sachse	SOTIO Biotech AG, 4056 Basel, Switzerland.
+39933529	Moebius	SOTIO Biotech a.s., 170 00 Prague, Czech Republic.
+39933529	Spisek	SOTIO Biotech a.s., 170 00 Prague, Czech Republic.
+39933529	Bechard	Cytune Pharma, 44300 Nantes, France.
+39931379	Xin	Shandong Aobo Biotech Co. Ltd., Liaocheng, China.
+39930890	Morgan	Biomedical Research, Novartis Pharma AG, Basel, Switzerland.
+39930890	Gutknecht	Biomedical Research, Novartis Pharma AG, Basel, Switzerland.
+39930890	Karle	Biomedical Research, Novartis Pharma AG, Basel, Switzerland.
+39930890	Anderka	Technical Research and Development, Novartis Pharma AG, Basel, Switzerland.
+39930890	Lebesgue	Technical Research and Development, Novartis Pharma AG, Basel, Switzerland.
+39929221	Yao	Sun Pharmaceutical Industries, Princeton, NJ, USA.
+39929221	Saxena	Sun Pharmaceutical Industries, Mumbai, India.
+39929221	Sreenivasan	Sun Pharmaceutical Industries, Mumbai, India.
+39929221	Inamdar	Sun Pharmaceutical Industries, Mumbai, India.
+39929221	Chimote	Sun Pharmaceutical Industries, Princeton, NJ, USA.
+39928149	Esmaealzadeh	GI Pharmacology Interest Group (GPIG), Universal Scientific Education and Research Network (USERN), Tehran, Iran.
+39928149	Momtaz	GI Pharmacology Interest Group (GPIG), Universal Scientific Education and Research Network (USERN), Tehran, Iran. momtazsaeideh@gmail.com.
+39928095	Haeufel	Boehringer Ingelheim International GmbH, Ingelheim am Rhein, Germany.
+39928095	Thoma	Boehringer Ingelheim International GmbH, Biberach, Germany.
+39925780	Ribeiro	Nanosafety Group, International Iberian Nanotechnology Laboratory, Braga, Portugal.
+39925780	Kortekaas Krohn	Skin Immunology & Immune Tolerance (SKIN) Research Group, Vrije Universiteit Brussel (VUB), Brussels, Belgium.
+39925696	Li	Shandong Key Laboratory of Mucosal and Skin Administration Technology, Shandong Freda Pharmaceutical Group Co., Ltd., Jinan, 250101, China.
+39925696	Zhang	Shandong Key Laboratory of Mucosal and Skin Administration Technology, Shandong Freda Pharmaceutical Group Co., Ltd., Jinan, 250101, China.
+39925109	Kharabe	Ultrachrom Innovatives Pvt. Ltd., Burande Lay Out, Wardha, India.
+39923719	Penovich	Minnesota Epilepsy Group, Roseville, MN, USA.
+39923717	Kudou	Biostatistics, Japan Development Center, Takeda Pharmaceutical Company Limited, Osaka, Japan.
+39923470	Patel	Environmental Technologies Division, CSIR-NBRI, Lucknow 226001, India. Electronic address: patel7anju@gmail.com.
+39923470	Srivastava	Environmental Technologies Division, CSIR-NBRI, Lucknow 226001, India.
+39922925	Franson	Faegre Drinker Consulting, Washington DC, USA.
+39922925	Jorgensen	DMJ Consulting, Wayne, PA, USA.
+39922915	Kleebayoon	Private Academic and Editorial Consultant, Samraong, Cambodia. dramnuaykleebayoon@gmail.com.
+39922815	Bermejo	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Pollán	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Jerez Gilarranz	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Ponce Lorenzo	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Fernández Aramburo	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Cantos Sánchez de Ibargüen	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Santaballa Bertrán	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Galve-Calvo	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Fernández	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Pérez	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	De La Cruz	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Anton-Torres	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Moreno	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Vidal-Losada	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	López-Ceballos	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Blancas	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Echarri	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Rincón	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Caballero	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922815	Guerrero-Zotano	GEICAM, Spanish Breast Cancer Group, Madrid, Spain.
+39922289	Condominas	Impact and Prevention of Mental Disorders Research Group, Sant Joan de Déu Research Institut, Esplugues de Llobregat, Spain; Universitat Politécnica de Catalunya, Barcelona, Spain.
+39922289	Domènech-Abella	Impact and Prevention of Mental Disorders Research Group, Sant Joan de Déu Research Institut, Esplugues de Llobregat, Spain; Biomedical Research Networking Center for Mental Health Network (CIBERSAM), Madrid, Spain.
+39922289	Haro	Impact and Prevention of Mental Disorders Research Group, Sant Joan de Déu Research Institut, Esplugues de Llobregat, Spain; Biomedical Research Networking Center for Mental Health Network (CIBERSAM), Madrid, Spain; Parc Sanitari Sant Joan de Déu, Sant Boi de Llobregat, Spain.
+39922289	Giné-Vázquez	Impact and Prevention of Mental Disorders Research Group, Sant Joan de Déu Research Institut, Esplugues de Llobregat, Spain; Biomedical Research Networking Center for Mental Health Network (CIBERSAM), Madrid, Spain.
+39922289	Riquelme	Impact and Prevention of Mental Disorders Research Group, Sant Joan de Déu Research Institut, Esplugues de Llobregat, Spain.
+39922289	Siddi	Impact and Prevention of Mental Disorders Research Group, Sant Joan de Déu Research Institut, Esplugues de Llobregat, Spain; Biomedical Research Networking Center for Mental Health Network (CIBERSAM), Madrid, Spain; Parc Sanitari Sant Joan de Déu, Sant Boi de Llobregat, Spain. Electronic address: sara.siddi@sjd.es.
+39922205	Silva	Environmental Company of São Paulo State (CETESB), São Paulo, Brazil.
+39922205	Barbosa	Environmental Company of São Paulo State (CETESB), São Paulo, Brazil.
+39922205	Sato	Environmental Company of São Paulo State (CETESB), São Paulo, Brazil.
+39921911	Guth	Risk Management Consulting, Oak Ridge, Tennessee. mike@michaelguth.com.
+39921800	Neary	Janssen Global Services, LLC, Raritan, NJ, USA.
+39918730	Asao	IQVIA Solutions Japan G.K, Tokyo, Japan.
+39918534	Ghadanfar	M-Ghadanfar Consulting Life Sciences, Basel, Switzerland.
+39918534	Schweizer	Novartis Pharma AG, Basel, Switzerland.
+39918534	Obergfell	Novartis Pharma AG, Basel, Switzerland.
+39917474	Angley	Manya Angley Research and Consulting.
+39917328	Fang	Kunming Shenghuo Pharmaceutical Group Co., Ltd., Kunming, China.
+39912330	Kleebayoon	Private Academic Consultant, Samraong, Cambodia.
+39912214	Liu	Shaanxi Kangruian Group Pharmaceutical Co. Ltd, Xi'an, Shaanxi, China.
+39912214	Wang	Shaanxi Kangruian Group Pharmaceutical Co. Ltd, Xi'an, Shaanxi, China.
+39912214	Chen	Shaanxi Kangruian Group Pharmaceutical Co. Ltd, Xi'an, Shaanxi, China.
+39911142	Vera	Allergan, an AbbVie company, Irvine, CA, USA.
+39910729	Schueler	Therapeutic Area Lead Oncology, Charles River Laboratories Germany GmbH, Freiburg, Germany.
+39910656	Zhang	GeneMind Biosciences Company Limited, 518001, Shenzhen, China.
+39910656	Lai	GeneMind Biosciences Company Limited, 518001, Shenzhen, China.
+39910584	Fukui	ASKA Pharmaceutical Co., Ltd, 2-5-1 Shibaura, Minato-Ku, Tokyo, 108-8532, Japan. fukui-m@aska-pharma.co.jp.
+39909904	Coulibaly	, Francfort-Sur-Le-Main, Germany.
+39907983	Moore	Novartis Pharma AG, 4002, Basel, Switzerland.
+39907983	Geissbühler	Novartis Pharma AG, 4002, Basel, Switzerland.
+39907983	Alexe	Novartis Pharma AG, 4002, Basel, Switzerland.
+39907983	Lewis	Novartis Pharma AG, 4002, Basel, Switzerland.
+39907897	Both	HEXAL AG (a Sandoz Company), Holzkirchen, Germany.
+39907897	Lemke	HEXAL AG (a Sandoz Company), Holzkirchen, Germany.
+39907897	von Richter	HEXAL AG (a Sandoz Company), Holzkirchen, Germany.
+39906639	Chen	Sichuan North Hongguang Special Chemical Co., Ltd, Yinguang Group Yibin 644000 China.
+39906639	Xiang	Sichuan North Hongguang Special Chemical Co., Ltd, Yinguang Group Yibin 644000 China.
+39905852	Luo	Digifluidic Biotech Ltd., Zhuhai, 519000, China.
+39905852	Li	Digifluidic Biotech Ltd., Zhuhai, 519000, China.
+39905852	Chen	Digifluidic Biotech Ltd., Zhuhai, 519000, China.
+39904844	de Cock	Boehringer Ingelheim International GmbH, Ingelheim Am Rhein, Germany.
+39904844	Empeslidis	Boehringer Ingelheim International GmbH, Ingelheim Am Rhein, Germany.
+39903060	Wizel	Head of External Research and Development, Dynavax Technologies Corporation, Emeryville, CA, USA.
+39902784	Becker	Boehringer Ingelheim Pharma GmbH, Biberach an der Riss, Germany.
+39902784	Romero-Palomo	Roche Pharma Research and Early Development (pRED), Pharmaceutical Sciences, Roche Innovation Center Basel, Switzerland.
+39902784	van Heerden	Janssen Pharmaceutica NV, a Johnson & Johnson company, Beerse, Belgium.
+39902784	Lenz	Roche Pharma Research and Early Development (pRED), Pharmaceutical Sciences, Roche Innovation Center Basel, Switzerland.
+39902784	Yun	Boehringer Ingelheim Pharma GmbH, Biberach an der Riss, Germany.
+39902728	Fertig	Nanion Technologies, Munich, Germany.
+39902728	Bazzone	Nanion Technologies, Munich, Germany.
+39901235	Rybak	French Paediatric Infectious Disease Group, Nice, 06200, France.
+39901235	Levy	French Paediatric Infectious Disease Group, Nice, 06200, France.
+39901235	Cohen	French Paediatric Infectious Disease Group, Nice, 06200, France.
+39901182	Accuosto	MedBioInformatics Solutions, Barcelona, Spain.
+39901182	Furlong	MedBioInformatics Solutions, Barcelona, Spain.
+39900124	Hardy	Edelweiss Connect GmbH, Technology Park Basel, Hochbergerstrasse 60C, 4057 Basel, Switzerland. Electronic address: Barry.Hardy@edelweissconnect.com.
+39899202	Gómez-Mantilla	Translational Medicine and Clinical Pharmacology, Boehringer Ingelheim Pharma GmbH & Co. KG, Binger Straße 173, 55216, Ingelheim am Rhein, Germany.
+39899202	Shukla	Translational Medicine and Clinical Pharmacology, Boehringer Ingelheim Pharma GmbH & Co. KG, Binger Straße 173, 55216, Ingelheim am Rhein, Germany.
+39899202	Peters	Translational Medicine and Clinical Pharmacology, Boehringer Ingelheim Pharma GmbH & Co. KG, Binger Straße 173, 55216, Ingelheim am Rhein, Germany. sheila.peters@boehringer-ingelheim.com.
+39899201	Gómez-Mantilla	Translational Medicine and Clinical Pharmacology, Boehringer Ingelheim Pharma GmbH & Co. KG, Binger Straße 173, 55216, Ingelheim am Rhein, Germany.
+39899201	Shukla	Translational Medicine and Clinical Pharmacology, Boehringer Ingelheim Pharma GmbH & Co. KG, Binger Straße 173, 55216, Ingelheim am Rhein, Germany.
+39899201	Stopfer	Translational Medicine and Clinical Pharmacology, Boehringer Ingelheim Pharma GmbH & Co. KG, Binger Straße 173, 55216, Ingelheim am Rhein, Germany.
+39899201	Sieger	Drug Discovery Sciences, Boehringer Ingelheim Pharma GmbH & Co. KG, 88397, Biberach a.d. Riss, Germany.
+39899201	Peters	Translational Medicine and Clinical Pharmacology, Boehringer Ingelheim Pharma GmbH & Co. KG, Binger Straße 173, 55216, Ingelheim am Rhein, Germany. sheila.peters@boehringer-ingelheim.com.
+39896962	Wang	PointOH5 LLC, Boston, Mass.
+39896804	Lefèvre	Roche Pharma Research and Early Development (pRED), Pharmaceutical Sciences PS, Roche Innovation Center Basel, Basel, Switzerland.
+39896804	Boetsch	Roche Pharma Research and Early Development (pRED), Pharmaceutical Sciences PS, Roche Innovation Center Basel, Basel, Switzerland.
+39896804	Frances	Roche Pharma Research and Early Development (pRED), Pharmaceutical Sciences PS, Roche Innovation Center Basel, Basel, Switzerland.
+39896321	Wang	Shanghai Zelixir Biotech Company Ltd., Shanghai, 200030, China.
+39894128	Liu	Yili Industrial Group Co., Ltd, Hohhot, Inner Mongolia 010110, China.
+39894106	Ganguly	TCG Lifesciences, Pvt. Ltd. Sector V, Kolkata 700091, West Bengal, India.
+39893774	Takahashi	Oncology Clinical Development Planning 1, Ono Pharmaceutical Co., Ltd., 8-2, Kyutaromachi 1-chome, Chuo-ku, Osaka, Japan. Electronic address: shig.takahashi@ono-pharma.com.
+39893513	Heger	Health Research Services GmbH, Germany.
+39893513	Meinert	Health Research Services GmbH, Germany.
+39893513	Riedl	Salus Haus Dr. med. Otto Greither Nachf. GmbH & Co. KG, Bruckmuehl, Germany.
+39893513	Straub	STRAUB INT. ECO-CONSULTING, Mutlangen, Germany.
+39892265	Welch	Welch Innovation, LLC, Fishers, IN, 46040, USA.
+39891883	Sakamoto	Kyushu Study Group of Clinical Cancer, Fukuoka, Japan.
+39891825	Amand	Opella, A Sanofi Company, Neuilly-Sur-Seine, France.
+39891825	Polivka	AIXIAL Group, 221 Bis Boulevard Jean Jaurès, 92100, Boulogne-Billancourt, France.
+39891825	Stewart	Opella, A Sanofi Company, Cambridge, MA, USA.
+39891825	Constantin	Opella, A Sanofi Company, Neuilly-Sur-Seine, France.
+39890226	Diarra	Université des Sciences, des Techniques et des Technologies de Bamako (USTTB), Bamako, Mali.
+39890226	Doumbia	Université des Sciences, des Techniques et des Technologies de Bamako (USTTB), Bamako, Mali.
+39890226	Koita	Université des Sciences, des Techniques et des Technologies de Bamako (USTTB), Bamako, Mali.
+39889683	Cao	Shandong Hongjitang Pharmaceutical Group Co. Ltd., Jinan, 250103, China.
+39889683	Meng	Shandong Hongjitang Pharmaceutical Group Co. Ltd., Jinan, 250103, China.
+39889408	Sorensen	Lilly Research Laboratories, Eli Lilly and Company, Indianapolis, IN, 46285, USA.
+39889408	Maloney	Lilly Research Laboratories, Eli Lilly and Company, Indianapolis, IN, 46285, USA.
+39887022	Kleebayoon	Private Academic Consultant, Samraong, Cambodia.
+39886340	Klebl	KHAN Technology Transfer Fund I GmbH & Co. KG, Otto-Hahn-Straße 15, 44227 Dortmund, Germany.
+39886340	Dinkel	Lead Discovery Center GmbH, Otto-Hahn-Straße 15, 44227 Dortmund, Germany.
+39886340	Bhattacharya	Janssen Research and Development LLC, San Diego, California, USA.
+39886340	Palmer	Janssen Research and Development LLC, San Diego, California, USA.
+39884812	Abduljalil	Certara Predictive Technologies, Sheffield, United Kingdom.
+39884676	Elmore	ElmorePathology LLC, Chapel Hill, NC, USA.
+39884676	Kluxen	ADAMA Deutschland GmbH, Cologne, Germany.
+39884676	Maronpot	Maronpot Consulting LLC, Raleigh, NC, USA.
+39884676	Weber	AnaPath Services GmbH/K. Weber Consulting GmbH, Oberbuchsiten, Switzerland.
+39884453	Callis	Lilly Research Laboratories, Eli Lilly & Company, Indianapolis, IN, USA.
+39884453	Doron	Teva Pharmaceutical Industries Ltd., Global R&D, Netanya, Israel.
+39884453	Oded	Teva Pharmaceutical Industries Ltd., Global R&D, Netanya, Israel.
+39884453	Udovic	Novartis Pharma AG, Pre-Clinical Safety, Basel, Switzerland.
+39884070	Suzuki	Shimadzu Corporation, 1 Nishinokyo Kuwabara-cho, Nakagyo-ku, Kyoto 604-8511, Japan.
+39884070	Horie	Shimadzu Analytical Innovation Research Laboratories, 2-1 Yamadaoka, Suita, Osaka 565-0871, Japan; Shimadzu Corporation, 1 Nishinokyo Kuwabara-cho, Nakagyo-ku, Kyoto 604-8511, Japan; Shimadzu Europa GmbH, Albert-Hahn-Strasse 6-10, 47269 Duisburg, Germany.
+39884070	Masuda	Shimadzu Corporation, 1 Nishinokyo Kuwabara-cho, Nakagyo-ku, Kyoto 604-8511, Japan.
+39882397	Takahashi	Medical Equipment Business Operations, JEOL Ltd., Tokyo, Japan.
+39882397	Takiwaki	Medical Equipment Business Operations, JEOL Ltd., Tokyo, Japan.
+39882397	Fukuzawa	Medical Equipment Business Operations, JEOL Ltd., Tokyo, Japan.
+39882397	Kikutani	Medical Equipment Business Operations, JEOL Ltd., Tokyo, Japan.
+39882397	Abe	Medical Equipment Business Operations, JEOL Ltd., Tokyo, Japan.
+39881528	Saka	Scientific Research Works Peer Support Group (SRWS-PSG), Osaka, Japan.
+39881485	Barale-Thomas	Janssen Pharmaceutica NV, Johnson & Johnson Company, Beerse, Belgium.
+39881485	Johnson	Eli Lilly and Company, Indianapolis, Indiana, USA.
+39881150	Zobkova	Evogen LLC, Moscow, Russia.
+39881150	Doroschuk	Evogen LLC, Moscow, Russia.
+39881150	Smirnova	Evogen LLC, Moscow, Russia.
+39881150	Sagaydak	Evogen LLC, Moscow, Russia.
+39881034	Zhuang	Pharma Solutions, Nutrition and Health, BASF (China) Company, Ltd., 333 Jiang Xin Sha Road, Shanghai, 200137, China.
+39879566	Chorghade	THINQ Pharma/Ayurvidya Health Care 7 Jones Court, Hillsborough, New Jersey 08844-4597, United States.
+39877874	Araki	Research and Development Division, Kikkoman Corporation.
+39877874	Takahashi	Research and Development Division, Kikkoman Corporation.
+39877260	Ghadanfar	M-Ghadanfar Consulting (Life Sciences), Basel, Switzerland.
+39877260	Schweizer	Novartis Pharma AG, Basel, Switzerland.
+39877260	Obergfell	Novartis Pharma AG, Basel, Switzerland.
+39876095	Yang	Oncology Clinical Pharmacology, Astellas Pharma Global Development, Inc, Northbrook, Illinois, USA.
+39875757	Ganu	MPREX Healthcare Pvt. Ltd., Pune, 411057, India.
+39875757	Nagore	MPREX Healthcare Pvt. Ltd., Pune, 411057, India.
+39875757	Godse	Phytoveda Pvt. Ltd., V.N. Purav Marg, Mumbai, 400022, India.
+39875757	Mehta	Phytoveda Pvt. Ltd., V.N. Purav Marg, Mumbai, 400022, India.
+39875757	Mehta	Phytoveda Pvt. Ltd., V.N. Purav Marg, Mumbai, 400022, India.
+39875757	Nair	Phytoveda Pvt. Ltd., V.N. Purav Marg, Mumbai, 400022, India. sujit108@gmail.com.
+39875609	Lam	LipidALL Technologies, Changzhou, China.
+39875375	Zimmermann	Research Unit Oncology, The healthcare business of Merck KGaA, Frankfurter Str. 250, 64293, Darmstadt, Germany.
+39875375	Dahmen	Research Unit Oncology, The healthcare business of Merck KGaA, Frankfurter Str. 250, 64293, Darmstadt, Germany.
+39875375	Zenke	Research Unit Oncology, The healthcare business of Merck KGaA, Frankfurter Str. 250, 64293, Darmstadt, Germany.
+39875037	Patil	Tevapharm India Private Limited, Seawoods Grand Central, Seawoods (W), Navi Mumbai 400706 India.
+39874255	Vera	Allergan, an AbbVie company, Irvine, CA, USA.
+39874255	Lum	Ventura Ophthalmology Medical Group, Ventura, CA, USA.
+39874255	Balaram	Allergan, an AbbVie company, Irvine, CA, USA.
+39874255	Simonyi	Allergan, an AbbVie company, Singapore.
+39874036	San An	GNT Pharma Co Ltd, Yongin, Republic of Korea.
+39874036	Gwag	GNT Pharma Co Ltd, Yongin, Republic of Korea.
+39872379	Yang	General Nutraceutical Technology LLC, Elmsford, NY, United States.
+39870862	Yong	Calico Life Sciences LLC, South San Francisco, CA, USA.
+39870862	Jan	Calico Life Sciences LLC, South San Francisco, CA, USA.
+39870844	Yamauchi	Business Development Headquarters, ESPEC CORP, 5-2-5 Minamimachi, Kanokodai, Kita-Ku, Kobe, Hyogo, 651-1514, Japan.
+39870546	Sookaromdee	Private Academic Consultant, Bangkok, Thailand. Electronic address: pathumsook@gmail.com.
+39869670	Vogt	MEDA Pharma GmbH & Co KG, Hessen, Germany (S.V.).
+39868265	Thennati	Sun Pharmaceutical Industries Limited, Vadodara, Gujarat, India.
+39868265	Burade	Sun Pharmaceutical Industries Limited, Vadodara, Gujarat, India.
+39868265	Natarajan	Sun Pharmaceutical Industries Limited, Vadodara, Gujarat, India.
+39868265	Shahi	Sun Pharmaceutical Industries Limited, Vadodara, Gujarat, India.
+39867994	Jia	Medical Affairs CVRM, AstraZeneca Pharmaceutical (Hangzhou) Co. Ltd. Company, Hangzhou, China.
+39867746	Kleebayoon	Private Academic Consultant, Samraong, Cambodia.
+39866673	Pratama	Drug Utilization and Pharmacoepidemiology Research Group, Center of Excellence in Higher Education for Pharmaceutical Care Innovation, Universitas Padjadjaran, Sumedang, West Java, 45363, Indonesia.
+39864709	Mei	Hangzhou Huadong Medicine Group Co. Ltd., Hangzhou 310011, China. Electronic address: meijiaqi@eastchinapharm.com.
+39864598	Holm	MatTek Corporation, 200 Homer Avenue, Ashland, Massachusetts, USA.
+39864598	Ayehunie	MatTek Corporation, 200 Homer Avenue, Ashland, Massachusetts, USA.
+39864598	Evers	Preclinical Sciences & Translational Safety, Janssen R&D, LLC, Spring House, Pennsylvania, USA.
+39864376	Zhao	Jilin Yizheng Pharmaceutical Group Co., Ltd., Jilin Province, Siping 136001, China.
+39863888	Li	Shenzhen AntiV Pharma Co. Ltd., Shenzhen, Guangdong, 518118, China.
+39863758	Ichida	Chiba Health Promotion Center, East Japan Railway Company, Chiba, Japan.
+39862881	Berry	Company Berry Consultants, Austin, TX, USA.
+39862881	Detry	Company Berry Consultants, Austin, TX, USA.
+39862881	Bosse	Company Berry Consultants, Austin, TX, USA.
+39862881	McGlothlin	Company Berry Consultants, Austin, TX, USA.
+39862228	Huszcza	Celon Pharma S.A., Łomianki, Poland.
+39862111	Mullins	Eli Lilly and Company, Indianapolis, IN, USA.
+39862111	Staack	Roche Pharma Research & Early Development, Roche Innovation Center, Munich, Germany.
+39862107	Bivi	Eli Lilly and Company, Indianapolis, IN, USA.
+39862107	Stubenrauch	F. Hoffmann-La Roche Ltd, Roche Pharma Research & Early Development (pRED), Basel, Switzerland.
+39862107	Wen	Eli Lilly and Company, Indianapolis, IN, USA.
+39861735	Akpinar Adscheid	MyBiotech GmbH, Industriestraße 1B, 66802 Überherrn, Germany.
+39861735	Türeli	MyBiotech GmbH, Industriestraße 1B, 66802 Überherrn, Germany.
+39861735	Günday-Türeli	MyBiotech GmbH, Industriestraße 1B, 66802 Überherrn, Germany.
+39861136	Okoniewska	Pharmaceutical Company Okoniewscy "Vetos-Farma" Sp. z o.o., ul. Dzierżoniowska 21, 58-260 Bielawa, Poland.
+39860294	Hermosilla	G-Aqua Research Group, Departamento de Ingeniería y Gestión Forestal y Ambiental, Escuela Técnica Superior de Ingeniería de Montes, Forestal y del Medio Natural, Universidad Politécnica de Madrid, C/José Antonio Novais 10, 28040 Madrid, Spain.
+39860294	Muelas-Ramos	G-Aqua Research Group, Departamento de Ingeniería y Gestión Forestal y Ambiental, Escuela Técnica Superior de Ingeniería de Montes, Forestal y del Medio Natural, Universidad Politécnica de Madrid, C/José Antonio Novais 10, 28040 Madrid, Spain.
+39860294	de Los Ríos	G-Aqua Research Group, Departamento de Ingeniería y Gestión Forestal y Ambiental, Escuela Técnica Superior de Ingeniería de Montes, Forestal y del Medio Natural, Universidad Politécnica de Madrid, C/José Antonio Novais 10, 28040 Madrid, Spain.
+39860294	Gascó	G-Aqua Research Group, Departamento de Ingeniería y Gestión Forestal y Ambiental, Escuela Técnica Superior de Ingeniería de Montes, Forestal y del Medio Natural, Universidad Politécnica de Madrid, C/José Antonio Novais 10, 28040 Madrid, Spain.
+39858189	Monteiro	Nerthus Research and Development LTDA, Sao Carlos 13563-651, Sao Paulo, Brazil.
+39858189	Muro	Nerthus Research and Development LTDA, Sao Carlos 13563-651, Sao Paulo, Brazil.
+39857391	Osada	Chemical Biology Research Group, RIKEN Center for Sustainable Resource Science, wako, Saitama 351-0198, Japan.
+39857391	Yoshida	Chemical Genomics Research Group, RIKEN Center for Sustainable Resource Science, Wako, Saitama 351-0198, Japan.
+39854278	Reyner	Verona Pharma plc, Raleigh, NC, USA.
+39854278	Dixon	Verona Pharma plc, Raleigh, NC, USA.
+39854278	Rheault	Verona Pharma plc, Raleigh, NC, USA.
+39854278	Rickard	Verona Pharma plc, Raleigh, NC, USA.
+39852899	Wang	Calid Biotech (Wuhan) Co., Ltd., Wuhan 430073, China.
+39852865	Shin	Medical Business Division, Raphas Co., Ltd., Seoul 07793, Republic of Korea.
+39852865	Han	Medical Business Division, Raphas Co., Ltd., Seoul 07793, Republic of Korea.
+39852865	An	Medical Business Division, Raphas Co., Ltd., Seoul 07793, Republic of Korea.
+39852865	Jeong	Medical Business Division, Raphas Co., Ltd., Seoul 07793, Republic of Korea.
+39852047	Kumar	Exigo Recycling Pvt Ltd., Karnal 132114, Haryana, India.
+39849494	Braun	RMH Radiotherapy Focus Group & RMH Biomedical Research Centre Consumer Group, Sutton, UK.
+39849322	Pradipta	Drug Utilization and Pharmacoepidemiology Research Group, Center of Excellence in Higher Education for Pharmaceutical Care Innovation, Universitas Padjadjaran, Bandung, Indonesia.
+39849152	Zhang	Shandong Hongji-tang Pharmaceutical Group Co., Ltd., Jinan, People's Republic of China.
+39849152	Meng	Shandong Hongji-tang Pharmaceutical Group Co., Ltd., Jinan, People's Republic of China.
+39849152	Zhang	Shandong Hongji-tang Pharmaceutical Group Co., Ltd., Jinan, People's Republic of China.
+39849152	Xu	Shandong Hongji-tang Pharmaceutical Group Co., Ltd., Jinan, People's Republic of China.
+39849152	Jiang	Shandong Hongji-tang Pharmaceutical Group Co., Ltd., Jinan, People's Republic of China.
+39849152	Li	Shandong Hongji-tang Pharmaceutical Group Co., Ltd., Jinan, People's Republic of China.
+39848919	Ichihashi	Syuhakukai Medical Corporation, Tokyo, Japan.
+39848337	Vila-Marti	Research Group M30-Methodology, Methods, Models and Outcomes of Health and Social Sciences and Welfare, Universitat de Vic-Universitat Central de Catalunya, Vic, Spain.
+39846858	Holman	Nonclinical Safety Assessment, Eli Lilly and Company, Indianapolis, Indiana, USA.
+39846858	Achanzar	Nonclinical Safety, Bristol Myers Squibb Company, New Brunswick, New Jersey, USA.
+39846858	Guérard	Roche Pharma Research and Early Development, Pharmaceutical Sciences, Roche Innovation Center Basel, Basel, Switzerland.
+39846690	Al-Jammal	Quay Pharma Ltd., Deeside Industrial Park, Quay House, 28 Parkway, Deeside CH5 2NS, UK.
+39846425	Nippa	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39846425	Müller	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39846425	Atz	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39846425	Grether	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39846425	Martin	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39845964	Yang	General Nutraceutical Technology LLC, Elmsford, NY, United States.
+39845424	Ostrach	Fruit of Labor Action Research & Technical Assistance, LLC, USA.
+39843818	Zhang	Xiamen Boson Biotech Co., Ltd., Xiamen, 361021, Fujian, People's Republic of China.
+39843750	McKay	Genetic Cancer Susceptibility Group, International Agency for Research on Cancer, Lyon, France.
+39843709	Bello	Eli Lilly and Company, Indianapolis, IN, USA.
+39843709	Grace	Eli Lilly and Company, Indianapolis, IN, USA.
+39843709	Inman	Eli Lilly and Company, Indianapolis, IN, USA.
+39843709	Kronbergs	Eli Lilly and Company, Indianapolis, IN, USA.
+39843709	Ngantcha	Eli Lilly and Company, Indianapolis, IN, USA.
+39843709	Blauvelt	Blauvelt Consulting, LLC, Lake Oswego, OR, USA.
+39841452	Engelborghs	Vrije Universiteit Brussel, Center for Neurosciences, Neuroprotection & Neuromodulation Research Group, Brussels, Belgium.
+39841452	Baeken	Vrije Universiteit Brussel, Center for Neurosciences, Neuroprotection & Neuromodulation Research Group, Brussels, Belgium.
+39839150	Daungsupawong	Private Academic Consultant, Phonhong, Lao People's Democratic Republic.
+39838364	Sudo	Toray Industries, Inc, Kamakura, Japan.
+39838364	Takizawa	Toray Industries, Inc, Kamakura, Japan.
+39838062	DeFranco	Sleep Number Corporation, Minneapolis, MN, USA.
+39838062	Aloia	Sleep Number Corporation, Minneapolis, MN, USA.
+39838062	Mills	Sleep Number Corporation, Minneapolis, MN, USA.
+39837196	Ouyang	PhaBuilder Biotech Co. Ltd., Zhaoquan Ying,, Shunyi District, Beijing 101309, China. Electronic address: ouyangpengfei@phabuilder.com.
+39836056	Audhuy	Merck Serono S.A.S., Lyon, France, an affiliate of Merck KGaA.
+39833966	Nelen	Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), HiTech Innovation Hub, UCAM Universidad Católica de Murcia, 30107, Murcia, Spain.
+39833966	Pérez-Sánchez	Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), HiTech Innovation Hub, UCAM Universidad Católica de Murcia, 30107, Murcia, Spain.
+39832023	Wei	Jiaxing Andicon Biotech Co., Ltd., Jiaxing, 314006, China.
+39832023	Zhu	Jiaxing Andicon Biotech Co., Ltd., Jiaxing, 314006, China.
+39831423	Bovino	Advanced Chemistry Technologies, Lonza AG, Visp CH-3930, Switzerland.
+39831423	Bersier	Advanced Chemistry Technologies, Lonza AG, Visp CH-3930, Switzerland.
+39831423	Littich	Advanced Chemistry Technologies, Lonza AG, Visp CH-3930, Switzerland.
+39831423	Roberge	Advanced Chemistry Technologies, Lonza AG, Visp CH-3930, Switzerland.
+39831423	Wagschal	Advanced Chemistry Technologies, Lonza AG, Visp CH-3930, Switzerland.
+39830765	Passos	Oncology Clinical Development, Novartis Pharmaceuticals Corporation, East Hanover, NJ, USA.
+39830765	Bury-Maynard	Patient Centered Outcomes, International Value and Access, PCO and HEOR, Novartis Pharmaceuticals Corporation, Cambridge, MA, USA.
+39830600	Wichmann	Roche Pharma Research and Early Development, Therapeutic Modalities, Small molecule research, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+39830600	Augustin	Roche Pharma Research and Early Development, Pharmaceutical Science, Translational PKPD and Clinical Pharmacology, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+39830600	Fischer	Roche Pharma Research and Early Development, Pharmaceutical Science, Translational PKPD and Clinical Pharmacology, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+39830600	Golling	Roche Pharma Research and Early Development, Pharmaceutical Science, Translational PKPD and Clinical Pharmacology, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+39830600	Lamerz	Roche Pharma Research and Early Development, Predictive Modelling & Data Analytics, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+39830600	Roth	Roche Pharma Research and Early Development, Therapeutic Modalities, Small molecule research, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+39830600	Graf	Roche Pharma Research and Early Development, Therapeutic Modalities, Small molecule research, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+39830600	Zoffmann	Roche Pharma Research and Early Development, Therapeutic Modalities, Small molecule research, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+39830600	Jagasia	Roche Pharma Research and Early Development, Neuroscience and Rare Diseases Discovery and Translational Area, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Basel, Switzerland.
+39830337	Hughes	Acrolytics LLC., Fort Collins, CO, United States.
+39829973	Iaculli	Research Group of Organic Chemistry, Departments of Bioengineering Sciences and Chemistry, Vrije Universiteit Brussel Brussels Belgium steven.ballet@vub.be.
+39829973	Lamouroux	Research Group of Organic Chemistry, Departments of Bioengineering Sciences and Chemistry, Vrije Universiteit Brussel Brussels Belgium steven.ballet@vub.be.
+39829973	Caufriez	Research Group of Organic Chemistry, Departments of Bioengineering Sciences and Chemistry, Vrije Universiteit Brussel Brussels Belgium steven.ballet@vub.be.
+39829973	Ballet	Research Group of Organic Chemistry, Departments of Bioengineering Sciences and Chemistry, Vrije Universiteit Brussel Brussels Belgium steven.ballet@vub.be.
+39829412	Denefeld	Analytical Characterization, Biologics Analytical Development, Technical Research & Development, Novartis Pharma AG, WKL693.3.20, Postfach, CH-4002 Basel, Switzerland.
+39829412	Hajduk	Analytical Characterization, Biologics Analytical Development, Technical Research & Development, Novartis Pharma AG, WKL693.3.20, Postfach, CH-4002 Basel, Switzerland.
+39829412	Cerar	Structure-Biophysics-Stability, Biologics Drug Product Development, Technical Research & Development, Novartis Pharmaceutical Manufacturing LLC, Kolodvorska 27, SI-1234 Mengeš, Slovenia.
+39829412	Dayer	Analytical Characterization, Biologics Analytical Development, Technical Research & Development, Novartis Pharma AG, WKL693.3.20, Postfach, CH-4002 Basel, Switzerland.
+39829412	Lang	Analytical Characterization, Biologics Analytical Development, Technical Research & Development, Novartis Pharma AG, WKL693.3.20, Postfach, CH-4002 Basel, Switzerland.
+39829412	Kern	Analytical Characterization, Biologics Analytical Development, Technical Research & Development, Novartis Pharma AG, WKL693.3.20, Postfach, CH-4002 Basel, Switzerland.
+39829412	Griaud	Analytical Characterization, Biologics Analytical Development, Technical Research & Development, Novartis Pharma AG, WKL693.3.20, Postfach, CH-4002 Basel, Switzerland.
+39828051	Franco	Merck Serono Limited, 5 New Square, Bedfont Lakes Business Park, Feltham TW14 8HA, UK. Electronic address: pedro.franco@merckgroup.com.
+39827983	Décaudin	UFR3S, département de pharmacie, département de pharmacie officinale, université de Lille, 59000 Lille, France; ULR 7365-GRITA-Groupe de recherche sur les formes injectables et les technologies associées, CHU Lille, université de Lille, 59000 Lille, France. Electronic address: bertrand.decaudin@univ-lille.fr.
+39827983	Garat	UFR3S, département de pharmacie, département de pharmacie officinale, université de Lille, 59000 Lille, France; ULR 4483-IMPECS-IMPact de l'environnement chimique sur la santé humaine, CHU Lille, université de Lille, 59000 Lille, France.
+39827983	Calafiore	UFR3S, département de médecine, département de médecine générale, faculté de médecine, université de Lille, Lille, France; UFR3S, Maison de Santé pluriprofessionnelle universitaire Wattrelos, université de Lille, 59000 Lille, France; ULR2694-METRICS, évaluation des technologies de santé et des pratiques médicales, CHU Lille, université de Lille, 59000 Lille, France.
+39827675	Stockis	UCB Pharma, Braine-l'Alleud, Belgium.
+39826935	Kleebayoon	Private Academic Consultant, Samraong, Cambodia. Electronic address: amnuaykleebai@gmail.com.
+39826153	Bartmann	DNTOX GmbH, Düsseldorf, Germany.
+39826153	Chatterjee	NanoSafety Group, International Iberian Nanotechnology Laboratory, Braga, Portugal.
+39826153	Fritsche	DNTOX GmbH, Düsseldorf, Germany.
+39826153	Koch	DNTOX GmbH, Düsseldorf, Germany.
+39826153	Marty	Dow Chemical Company, Midland, MI, USA.
+39825940	Soeberdt	Dr. August Wolff GmbH & Co. KG Arzneimittel, Bielefeld, Germany.
+39825940	Abels	Dr. August Wolff GmbH & Co. KG Arzneimittel, Bielefeld, Germany.
+39825184	Goldstein	Huntington Study Group, Rochester, NY, USA.
+39825184	Kayson	Huntington Study Group, Rochester, NY, USA.
+39825079	Le	Exact Sciences Corporation, Madison, WI, USA.
+39825079	Greene	Exact Sciences Corporation, Madison, WI, USA. magreene@exactsciences.com.
+39825079	Gohil	Exact Sciences Corporation, Madison, WI, USA.
+39825079	Ozbay	Exact Sciences Corporation, Madison, WI, USA.
+39825079	Limburg	Exact Sciences Corporation, Madison, WI, USA.
+39824696	Nishida	Novo Nordisk Pharma Ltd., Tokyo, Japan.
+39824255	Ng	The C-MER Dennis Lam & Partners Eye Center, C-MER International Eye Care Group, Hong Kong.
+39824069	Meierrieks	Lab Essentials Applications Development, Sartorius Lab Instruments GmbH & Co. KG, Göttingen, Germany. Electronic address: frederik.meierrieks@sartorius.com.
+39824069	Rübeling	Lab Essentials Applications Development, Sartorius Lab Instruments GmbH & Co. KG, Göttingen, Germany.
+39824069	Asikoglu	Lab Essentials Applications Development, Sartorius Lab Instruments GmbH & Co. KG, Göttingen, Germany.
+39824069	Pflanz	Lab Essentials Applications Development, Sartorius Stedim Biotech GmbH, Göttingen, Germany.
+39824069	Pickl	Lab Essentials Applications Development, Sartorius Lab Instruments GmbH & Co. KG, Göttingen, Germany.
+39824069	Graf	Lab Essentials Applications Development, Sartorius Lab Instruments GmbH & Co. KG, Göttingen, Germany.
+39824043	Waldock	Vaccines Division, Science & Research Group, Medicines and Healthcare products Regulatory Agency (MHRA), Potters Bar, United Kingdom.
+39824043	Engelhardt	Vaccines Division, Science & Research Group, Medicines and Healthcare products Regulatory Agency (MHRA), Potters Bar, United Kingdom.
+39824043	Jeeninga	Viroclinics-DDL, a Cerba Research Company (VC), Rotterdam, the Netherlands.
+39823444	Alsetohy	Medication Therapy Management and Pharmaceutical Services Sector, Headquarter, Cleopatra Hospitals Group-(CHG), Cairo, Egypt.
+39823444	Ali	Medication Therapy Management and Pharmaceutical Services Sector, Headquarter, Cleopatra Hospitals Group-(CHG), Cairo, Egypt.
+39823444	Ezz-Elden	General Administration, Headquarter, Cleopatra Hospitals Group-(CHG), Cairo, Egypt.
+39823444	Alashkar	Information Technology Sector, Headquarter, Cleopatra Hospitals Group-(CHG), Cairo, Egypt.
+39821724	Fronk	Daiichi Sankyo Europe GmbH, Munich, Germany.
+39821724	Souza	Daiichi Sankyo Europe GmbH, Munich, Germany.
+39821724	Laeis	Daiichi Sankyo Europe GmbH, Munich, Germany.
+39821415	Hayashi	Research and Development, Data Science & Innovation Division, Biometrics group, AstraZeneca K.K., Osaka, Japan.
+39821140	Lewis	Drug Product Technologies, Process Development, Amgen Inc., Thousand Oaks, CA, USA.
+39821140	Martinelli	Lilly Seaport Innovation Center, Eli Lilly and Company, Boston, MA, USA.
+39821046	Spiegel	Kelly Government Solutions, Contractor to NIAID/NIH/HHS, Rockville, MD, USA.
+39820580	Nishida	Novo Nordisk Pharma Ltd, Tokyo, Japan.
+39819417	Singh	Tirupati Group, Paonta Sahib - 173025, India.
+39819258	Muramatsu	Research and Development Division, Seikagaku Corporation, Higashiyamato, Japan.
+39819258	Takada	Research and Development Division, Seikagaku Corporation, Higashiyamato, Japan.
+39819258	Toyama	Research and Development Division, Seikagaku Corporation, Higashiyamato, Japan.
+39819258	Yoshioka	Research and Development Division, Seikagaku Corporation, Higashiyamato, Japan.
+39818325	Limyada	Vet Products Research & Innovation Center Co., Ltd, 141 Moo9, Thailand Science Park, Innovation Clusters (INC2) Tower D 11th floor, Room No. INCD1108-INCD1111 Phahonyothin Road, Khlong Nueng, Khlong Luang, Pathum Thani, 12120, Thailand.
+39818201	Fernandez	Japan Medical Office, Takeda Pharmaceutical Company Limited, Tokyo, Japan.
+39818201	Ishiguro	Japan Medical Office, Takeda Pharmaceutical Company Limited, Tokyo, Japan.
+39818201	Cavaliere	Japan Medical Office, Takeda Pharmaceutical Company Limited, Tokyo, Japan.
+39818201	Deguchi	Japan Medical Office, Takeda Pharmaceutical Company Limited, Tokyo, Japan.
+39817655	Schmohl	Boehringer Ingelheim International GmbH, Ingelheim, Germany.
+39817471	Qiang	TransThera Sciences (Nanjing). Inc. Fl 3, Bld 9, Phase 2 Accelerator, Biotech and Pharmaceutical Valley, Jiangbei New Area, Nanjing, Jiangsu, China.
+39817471	Peng	TransThera Sciences (Nanjing). Inc. Fl 3, Bld 9, Phase 2 Accelerator, Biotech and Pharmaceutical Valley, Jiangbei New Area, Nanjing, Jiangsu, China.
+39817471	Wu	TransThera Sciences (Nanjing). Inc. Fl 3, Bld 9, Phase 2 Accelerator, Biotech and Pharmaceutical Valley, Jiangbei New Area, Nanjing, Jiangsu, China.
+39817434	Hardy	Edelweiss Connect GmbH, Basel, Switzerland.
+39817434	Beilmann	Boehringer Ingelheim Pharma GmbH & Co. KG, Global Nonclinical Safety & DMPK, Biberach an der Riss, Germany.
+39817434	Kamp	BASF Metabolome Solutions GmbH, Berlin, Germany.
+39817077	Soon-Shiong	Nant Nudge LLC & Immunity Bio, Culver City, California, USA.
+39815804	Dermime	Translational Cancer Research Facility, National Center for Cancer Care and Research, Hamad Medical Corporation, Doha, Qatar.
+39815188	Sowell	Patient Centered Solutions, IQVIA, New York, NY, USA. france.ginchereau@iqvia.com.
+39815188	de Milliano	Consulting Services, IQVIA, Amsterdam, Netherlands.
+39815188	Reaney	Patient Centered Solutions, IQVIA, Reading, UK.
+39813430	Daungsupawong	Private Academic and Editorial Consultant. Phonhong, Laos.
+39813349	Nicewarner	ExesaLibero Pharma, Morgantown, WV 26505, USA.
+39813349	Hall	ExesaLibero Pharma, Morgantown, WV 26505, USA.
+39813071	Pérez-Moreno	Allergy Research Group, Instituto de Investigación Biomédica de Málaga y Plataforma en Nanomedicina-IBIMA Plataforma BIONAND, Málaga 29590, Spain.
+39813071	Paris	Allergy Research Group, Instituto de Investigación Biomédica de Málaga y Plataforma en Nanomedicina-IBIMA Plataforma BIONAND, Málaga 29590, Spain.
+39811884	Baker	TEMAS Solutions (TEMASOL), Hausen, 5212, Switzerland.
+39811336	Bell	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39811336	Simonneau	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39811336	Zanini	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39811336	Kassianidou	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39811336	Zundel	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39811336	Neff	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39811336	Steinhuber	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39811336	Tecilla	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39811336	Villaseñor	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39811336	Stokar-Regenscheit	Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Grenzacherstrasse 124, 4070, Basel, Switzerland.
+39811006	Zhao	Tecon Pharmaceutical Co., Ltd No. 109, Jintun Road Urumqi City 830023 Xinjiang China.
+39810815	Zhou	RTI Health Solutions, Research Triangle Park, NC.
+39810815	Garbinsky	RTI Health Solutions, Research Triangle Park, NC.
+39810815	Wang	RTI Health Solutions, Research Triangle Park, NC.
+39810703	Jäger	Increnovo LLC, Whitefish Bay, WI, USA.
+39809945	Yoshimura	Research and Development, Abbott Japan LLC, Matsudo, Japan.
+39809945	Yoshida	Research and Development, Abbott Japan LLC, Matsudo, Japan.
+39809459	Pastuña-Fasso	Biomolecules Discovery Group, Universidad Regional Amazónica Ikiam, Tena, Napo, Ecuador.
+39809459	Proaño-Bolaños	Biomolecules Discovery Group, Universidad Regional Amazónica Ikiam, Tena, Napo, Ecuador.
+39809459	Niño-Ruíz	Biomass to Resources Group, Universidad Regional Amazónica Ikiam, Tena, Napo, Ecuador.
+39809459	Mogollón	Biomolecules Discovery Group, Universidad Regional Amazónica Ikiam, Tena, Napo, Ecuador.
+39809264	Li	OE Biotech, Shanghai 201114, China.
+39808668	Vairavan	Janssen Research and Development, LLC, Titusville, NJ, United States of America.
+39808111	Totrov	MolSoft LLC, San Diego, California 92121, United States.
+39807815	Ding	Fuan Pharmaceutical Group, Chongqing Bosen Pharmaceutical Co., Ltd, Huanan Yi Road, Changshou District, Chongqing 401254, P. R. China. 282969918@qq.com.
+39807458	Berthold	Consulting, Planted in Science Consulting, LLC, St. Augustine, USA.
+39807458	Atallah	Clinical Pharmacology, Botanic Tonics, LLC, Calabasas, USA.
+39806873	Seki	Research, Takeda Pharmaceutical Company Limited, Fujisawa, Kanagawa 251-8555, Japan.
+39806873	Hata	Research, Takeda Pharmaceutical Company Limited, Fujisawa, Kanagawa 251-8555, Japan.
+39806873	Sasaki	Research, Takeda Pharmaceutical Company Limited, Fujisawa, Kanagawa 251-8555, Japan.
+39806567	Shoji	Medical Affairs, Astellas Pharma Inc, Tokyo, Japan.
+39806567	Yoshinaga	Data Science, Astellas Pharma Inc, Tokyo, Japan.
+39806567	Kosakai	Medical Affairs, Astellas Pharma Inc, Tokyo, Japan.
+39806567	Shintani-Tachi	Medical Affairs, Astellas Pharma Inc, Tokyo, Japan.
+39806351	Liu	Hefei HankeMab Biotechnology Co., Ltd.; Anhui Province Key Laboratory of Gene Engineering Pharmaceutical, Biomedicine Technology Innovation Center of Hefei, Anhui Anke Biotechnology (Group) Co., Ltd, Hefei, 230031, Anhui, China.
+39806351	Zhou	Hefei HankeMab Biotechnology Co., Ltd.; Anhui Province Key Laboratory of Gene Engineering Pharmaceutical, Biomedicine Technology Innovation Center of Hefei, Anhui Anke Biotechnology (Group) Co., Ltd, Hefei, 230031, Anhui, China.
+39806351	Zhou	Hefei HankeMab Biotechnology Co., Ltd.; Anhui Province Key Laboratory of Gene Engineering Pharmaceutical, Biomedicine Technology Innovation Center of Hefei, Anhui Anke Biotechnology (Group) Co., Ltd, Hefei, 230031, Anhui, China.
+39806351	Wei	Hefei HankeMab Biotechnology Co., Ltd.; Anhui Province Key Laboratory of Gene Engineering Pharmaceutical, Biomedicine Technology Innovation Center of Hefei, Anhui Anke Biotechnology (Group) Co., Ltd, Hefei, 230031, Anhui, China.
+39806351	Dai	Hefei HankeMab Biotechnology Co., Ltd.; Anhui Province Key Laboratory of Gene Engineering Pharmaceutical, Biomedicine Technology Innovation Center of Hefei, Anhui Anke Biotechnology (Group) Co., Ltd, Hefei, 230031, Anhui, China.
+39806351	Zeng	Hefei HankeMab Biotechnology Co., Ltd.; Anhui Province Key Laboratory of Gene Engineering Pharmaceutical, Biomedicine Technology Innovation Center of Hefei, Anhui Anke Biotechnology (Group) Co., Ltd, Hefei, 230031, Anhui, China.
+39806351	Zhou	Hefei HankeMab Biotechnology Co., Ltd.; Anhui Province Key Laboratory of Gene Engineering Pharmaceutical, Biomedicine Technology Innovation Center of Hefei, Anhui Anke Biotechnology (Group) Co., Ltd, Hefei, 230031, Anhui, China.
+39806351	Li	Hefei HankeMab Biotechnology Co., Ltd.; Anhui Province Key Laboratory of Gene Engineering Pharmaceutical, Biomedicine Technology Innovation Center of Hefei, Anhui Anke Biotechnology (Group) Co., Ltd, Hefei, 230031, Anhui, China.
+39806351	Zhang	Hefei HankeMab Biotechnology Co., Ltd.; Anhui Province Key Laboratory of Gene Engineering Pharmaceutical, Biomedicine Technology Innovation Center of Hefei, Anhui Anke Biotechnology (Group) Co., Ltd, Hefei, 230031, Anhui, China.
+39806351	Cheng	Hefei HankeMab Biotechnology Co., Ltd.; Anhui Province Key Laboratory of Gene Engineering Pharmaceutical, Biomedicine Technology Innovation Center of Hefei, Anhui Anke Biotechnology (Group) Co., Ltd, Hefei, 230031, Anhui, China. charlson@ustc.edu.cn.
+39806187	Lu	Shanghai Pharmaceutical Group Qingdao Growful Pharmaceutical Co., Ltd, Qingdao, 266000, P.R. China.
+39806135	Daungsupawong	Private Academic Consultant, Phonhong, Lao People's Democratic Republic. hinpetchdaung@gmail.com.
+39805853	Schulze-Forster	CellTrend Gesellschaft mit beschränkter Haftung (GmbH), Luckenwalde, Germany.
+39805853	Heidecke	CellTrend Gesellschaft mit beschränkter Haftung (GmbH), Luckenwalde, Germany.
+39804351	Qin	PharmaEssentia Corporation, Taipei, Taiwan.
+39804294	Kalabic	AbbVie Deutschland GmbH & Co. KG, Ludwigshafen, Germany.
+39803884	Daungsupawong	Private Academic and Editorial Consultant, Phonhong, Laos.
+39802819	Holer	Swiss Group for Clinical Cancer Research (SAKK), Competence Center, Bern, Switzerland.
+39802819	Hayoz	Swiss Group for Clinical Cancer Research (SAKK), Competence Center, Bern, Switzerland.
+39802474	Hussain Basha	Innovative Informatica Technologies Hyderabad Telangana India.
+39802302	Graeven	Kliniken Maria Hilf GmbH, Mönchengladbach, Germany.
+39802302	Held	ClinAssess GmbH, Leverkusen, Germany.
+39801799	Bratty	AB Research Consulting, New York, U.S.
+39801748	Schumacher	Vitrocell® Systems GmbH Waldkirch Germany.
+39801748	Krebs	Vitrocell® Systems GmbH Waldkirch Germany.
+39801748	Urbschat	Section of Thoracic Surgery of the Saar Lung Center, SHG Clinics Völklingen Germany.
+39801236	Brennan	Genetic Epidemiology Group, International Agency for Research on Cancer, Lyon, France.
+39801064	Wang	Simcere Pharmaceutical Group Limited, Nanjing 210042, P.R. China.
+39800732	Rebets	Explogen LLC, Volodymyra Velykoho st. 16, Lviv, 79032, Ukraine.
+39800493	Daungsupawong	Private Academic Consultant, Phonhong, Vientiane, Lao People's Democratic Republic. Electronic address: hinpetchdaung@gmail.com.
+39800453	Mintun	Eli Lilly and Company, Indianapolis, IN, USA.
+39800453	Hendrix	Pentara Corporation, Millcreek, UT, USA.
+39800453	Green	SDG, LLC, Cambridge, MA, USA.
+39800452	Grunfeld	Peninsula Therapeutic & Research Group Pty Ltd, Frankston, Victoria, Australia.
+39800452	Mander	Geelong Private Medical Centre, Geelong, Victoria, Australia.
+39798925	Connelly	Laboratory Corporation of America Holdings (LabCorp), Morrisville, North Carolina, USA.
+39798255	Ricci	Roche Pharma Research and Early Development (pRED), Roche Innovation Center, F. Hoffmann-La Roche Ltd, Basel, Switzerland.
+39798255	Kustermann	Roche Pharma Research and Early Development (pRED), Roche Innovation Center, F. Hoffmann-La Roche Ltd, Basel, Switzerland.
+39798255	Taylor	Roche Pharma Research and Early Development (pRED), Roche Innovation Center, F. Hoffmann-La Roche Ltd, Basel, Switzerland.
+39798255	Svoboda	Roche Pharma Research and Early Development (pRED), Roche Innovation Center, F. Hoffmann-La Roche Ltd, Basel, Switzerland; Roche Diagnostics GmbH, Penzberg, Germany.
+39798255	Bonni	Roche Pharma Research and Early Development (pRED), Roche Innovation Center, F. Hoffmann-La Roche Ltd, Basel, Switzerland.
+39796597	Almondes	Micronutrients and Non Communicable Disease Research Group, Universidade Estadual do Ceará, Fortaleza 60714-903, Brazil.
+39796597	Firmino	Micronutrients and Non Communicable Disease Research Group, Universidade Estadual do Ceará, Fortaleza 60714-903, Brazil.
+39796597	Nogueira	Micronutrients and Non Communicable Disease Research Group, Universidade Estadual do Ceará, Fortaleza 60714-903, Brazil.
+39796501	Gibbons	Active Medical Solutions, The Woodlands, TX 77380, USA.
+39796408	Sendra	Research Group of Food Quality and Safety, Instituto de Investigación e Innovación Agroalimentaria y Agroambiental (CIAGRO-UMH), Universidad Miguel Hernández de Elche, Ctra. Beniel, km 3.2, 03312 Orihuela, Spain.
+39796408	Casanova-Martínez	Research Group of Food Quality and Safety, Instituto de Investigación e Innovación Agroalimentaria y Agroambiental (CIAGRO-UMH), Universidad Miguel Hernández de Elche, Ctra. Beniel, km 3.2, 03312 Orihuela, Spain.
+39796408	Rodríguez-Estrada	Research Group of Food Quality and Safety, Instituto de Investigación e Innovación Agroalimentaria y Agroambiental (CIAGRO-UMH), Universidad Miguel Hernández de Elche, Ctra. Beniel, km 3.2, 03312 Orihuela, Spain.
+39796408	Carbonell-Barrachina	Research Group of Food Quality and Safety, Instituto de Investigación e Innovación Agroalimentaria y Agroambiental (CIAGRO-UMH), Universidad Miguel Hernández de Elche, Ctra. Beniel, km 3.2, 03312 Orihuela, Spain.
+39796219	Zobkova	Evogen LLC, 115191 Moscow, Russia.
+39796219	Smirnova	Evogen LLC, 115191 Moscow, Russia.
+39795953	Zheng	Epi Biotech Co., Ltd., Incheon 21983, Republic of Korea.
+39795953	Sung	Epi Biotech Co., Ltd., Incheon 21983, Republic of Korea.
+39794837	Chaby	Atlantic Biomarkers, LLC, Alachua, FL, US.
+39794837	Jeromin	Atlantic Biomarkers, LLC, Alachua, FL, US.
+39794448	Huang	Jianmin Pharmaceutical Group Co., Ltd., Hubei, 430050, China.
+39793898	Daungsupawong	Private Academic Consultant, Phonhong, Laos. Electronic address: hinpetchdaung@gmail.com.
+39793484	Majeed	Sami-Sabinsa Group Limited, 19/1, 19/2, I Main, II Phase, Peenya Industrial Area Bangalore, Karnataka, 560 058, India.
+39793484	Majeed	Sabinsa Corporation, 750 Innovation Circle, Payson, UT, 84651, USA.
+39793447	Chen	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceuticals, Johnson & Johnson company, 1400 McKean Rd. Spring House PA 19477, USA. Electronic address: kchen18@its.jnj.com.
+39793447	Dores-Sousa	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceutica NV, Johnson & Johnson company, Turnhoutseweg 30, Beerse B-2340, Belgium.
+39793447	Fontana	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen-Cilag, S.A., Johnson & Johnson company, C/Jarama 75A, Toledo E-45007, Spain. Electronic address: afontana@its.jnj.com.
+39793447	Grosanu	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceuticals, Johnson & Johnson company, 1400 McKean Rd. Spring House PA 19477, USA.
+39793447	McAllister	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceuticals, Johnson & Johnson company, 3210 Merryfield Row, San Diego, CA 92121, USA.
+39793447	Bai	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceuticals, Johnson & Johnson company, 3210 Merryfield Row, San Diego, CA 92121, USA.
+39793447	Bartkowiak	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceutica NV, Johnson & Johnson company, Turnhoutseweg 30, Beerse B-2340, Belgium.
+39793447	Cañellas	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen-Cilag, S.A., Johnson & Johnson company, C/Jarama 75A, Toledo E-45007, Spain.
+39793447	Corens	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceutica NV, Johnson & Johnson company, Turnhoutseweg 30, Beerse B-2340, Belgium.
+39793447	De Groot	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceutica NV, Johnson & Johnson company, Turnhoutseweg 30, Beerse B-2340, Belgium.
+39793447	Nevarez	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceuticals, Johnson & Johnson company, 3210 Merryfield Row, San Diego, CA 92121, USA.
+39793447	Serrano	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen-Cilag, S.A., Johnson & Johnson company, C/Jarama 75A, Toledo E-45007, Spain.
+39793447	Raeymaekers	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceutica NV, Johnson & Johnson company, Turnhoutseweg 30, Beerse B-2340, Belgium.
+39793447	Rodriguez	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen-Cilag, S.A., Johnson & Johnson company, C/Jarama 75A, Toledo E-45007, Spain.
+39793447	Van Eynde	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceutica NV, Johnson & Johnson company, Turnhoutseweg 30, Beerse B-2340, Belgium.
+39793447	Zhou	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceuticals, Johnson & Johnson company, 1400 McKean Rd. Spring House PA 19477, USA.
+39793447	Shi	Chemistry Capabilities, Analytical & Purification, Global Discovery Chemistry. Janssen Research & Development, a Division of Janssen Pharmaceuticals, Johnson & Johnson company, 1400 McKean Rd. Spring House PA 19477, USA.
+39793445	Suenaga	Novartis Pharma K.K., Tokyo, Japan.
+39793244	Ying	Foshan Gaoming Xinguang Agricultural and Animal Industrials Corporation, Foshan, 528515, PR China. Electronic address: yfan126@126.com.
+39793244	Liu	Foshan Gaoming Xinguang Agricultural and Animal Industrials Corporation, Foshan, 528515, PR China. Electronic address: liudawei8899@126.com.
+39792303	Davis	Janssen Research and Development LLC (Global Epidemiology), Horsham, PA, USA.
+39792215	Reaney	IQVIA Patient-Centered Solutions, 3 Forbury Place, 23 Forbury Road, Reading, RG1 3JH, London, UK. Matthew.reaney@iqvia.com.
+39792215	Mamolo	Patient-Centered Outcomes Research, Genentech Inc., A Member of the Roche Group, South San Francisco, CA, USA.
+39792215	Majumder	Bayer US LLC, Whippany, NJ, USA.
+39791858	Pannelay	ProductLife Group, Immeuble Colisée Gardens, 10 Av. de l'Arche Bâtiment C, 7ème étage, 92400 Courbevoie, France.
+39791489	Rahme	Business & Decision by Orange, Clinical Research, Paris, France.
+39789345	de Oliveira	Intersection LTDA, Ribeirão Preto, São Paulo, Brazil. alanmaicondeoliveira@gmail.com.
+39789345	Aguilar	Intersection LTDA, Ribeirão Preto, São Paulo, Brazil.
+39788967	Banbury	Adaptive Biotechnologies Corp, Seattle, USA.
+39788967	Sherry	Adaptive Biotechnologies Corp, Seattle, USA.
+39788917	Lepetit	French Clozapine Task Force; ACPPA Group, Francheville, France.
+39788917	Cohen	Dutch Clozapine Collaboration Group, Alkmaar, The Netherlands.
+39788917	Schulte	Dutch Clozapine Collaboration Group, Alkmaar, The Netherlands.
+39788702	Daungsupawong	Private Academic and Editorial Consultant, Phonhong, Laos.
+39788472	Garay-Pérez	Peptide Synthesis Group, Center for Genetic Engineering and Biotechnology, Ave. 31 e/158 y 190, Playa, Habana 11600, Cuba. Electronic address: hilda.garay@cigb.edu.cu.
+39788466	Alhusayni	Health Holding Company, Pharmaceutical Care Administration (Jeddah Second Health Cluster), Saudi Arabia.
+39788408	Xiao	Hunan Pharmaceutical Development Investment Group Co., Ltd., Changsha 410015, China.
+39787477	Hoffmann	FGK Clinical Research GmbH, Munich, Germany; and.
+39787477	Wirtz	FGK Clinical Research GmbH, Munich, Germany; and.
+39787477	Rempel	FGK Clinical Research GmbH, Munich, Germany; and.
+39787477	Böhm	FGK Clinical Research GmbH, Munich, Germany; and.
+39787005	Li	Innochina Biotech Co., Ltd, Shanghai 201400, China.
+39786773	Baurley	BioRealm LLC, Walnut, California.
+39783889	Wu	Kornelis Bio-pharmaceutical Company Limited, Nanjing, China.
+39780722	Li	Nanjing Apollomics Biotech Inc., Nanjing, Jiangsu 210033, China.
+39780231	Uskoković	Advanced Materials and Nanobiotechnology Laboratory, TardigradeNano LLC, Irvine, CA, 92604, USA.
+39779618	Baviriseaty	digiM Solution LLC., 500 West Cummings Park, Suite 3650, Woburn, MA, 01801, USA.
+39779618	Gautreau	digiM Solution LLC., 500 West Cummings Park, Suite 3650, Woburn, MA, 01801, USA.
+39779618	Yawman	digiM Solution LLC., 500 West Cummings Park, Suite 3650, Woburn, MA, 01801, USA.
+39779618	Zhang	digiM Solution LLC., 500 West Cummings Park, Suite 3650, Woburn, MA, 01801, USA.
+39779610	Shiekmydeen	Jailani Shiekmydeen, Formulation R&D, Alpha Pharma Industries, KAEC, Rabigh, Saudi Arabia.
+39779210	Ferreira	Pharma Research and Early Development (pRED), Roche Innovation Center Munich, Penzberg, Germany.
+39779210	Steele	SR Pathology LLC, Gaithersburg, Maryland, USA.
+39778985	Jia	Shandong Freda Pharmaceutical Group Co. Ltd, Jinan, Shandong 250101, China.
+39778730	Chan	Advanced Electrophoresis Solutions Ltd., 380 Jamieson Parkway, Unit 7 and 8, ON, N3C 4N4, Canada.
+39778730	Kwok	Advanced Electrophoresis Solutions Ltd., 380 Jamieson Parkway, Unit 7 and 8, ON, N3C 4N4, Canada.
+39778730	Xu	Advanced Electrophoresis Solutions Ltd., 380 Jamieson Parkway, Unit 7 and 8, ON, N3C 4N4, Canada.
+39778730	Bo	Advanced Electrophoresis Solutions Ltd., 380 Jamieson Parkway, Unit 7 and 8, ON, N3C 4N4, Canada. Electronic address: tao@aeslifesciences.com.
+39778730	Huang	Advanced Electrophoresis Solutions Ltd., 380 Jamieson Parkway, Unit 7 and 8, ON, N3C 4N4, Canada; AES Biotech Jiaxing Ltd., No. 501 South Changsheng Road, Economic and Technological Development Zone, Jiaxing City, Zhejiang Province, PR China. Electronic address: tiemin@aeslifesciences.com.
+39777531	Cárdenas	Affordable and Sustainable Sample Preparation (AS2P) Research Group, Departamento de Química Analítica, Instituto Químico para la Energía y el Medioambiente IQUEMA, Universidad de Córdoba, Campus de Rabanales, Edificio Marie Curie, E-14071, Córdoba, Spain. qa1caarm@uco.es.
+39776201	Fayyaz	Clariant Produkte (Deutschland) GmbH, Frankfurt Am Main, Germany.
+39776201	Grimm	Clariant Produkte (Deutschland) GmbH, Frankfurt Am Main, Germany.
+39776201	Wiora	Courage + Khazaka Electronic GmbH (C+K), Cologne, Germany.
+39776052	Sengupta	Ajanta Pharma Limited, Ajanta House, Charkop, Kandivali (W), Mumbai, India.
+39775067	Kshirsagar	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775067	Deshkar	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775067	Hayatnagarkar	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775067	Kaski	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775067	Kathar	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775067	Khandekar	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775067	Mookherjee	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775067	Ninawe	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775067	Ranka	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775067	Vinod	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775067	Yadav	Engineering for Research (e4r), Thoughtworks Technologies, Pune, Maharashtra, India.
+39775041	Demailly	InBrain Pharma, Lille, France.
+39775041	Baigne	InBrain Pharma, Lille, France.
+39775041	Foutel	InBrain Pharma, Lille, France.
+39775041	Fisichella	InBrain Pharma, Lille, France.
+39773984	Anufrieva	Center for Precision Genome Editing and Genetic Technologies for Biomedicine of Lopukhin Federal Research and Clinical Center of Physical-Chemical Medicine of Federal Medical Biological Agency, Moscow, Russia.
+39772566	De Las Rivas	Bioinformatics and Functional Genomics Group, Cancer Research Centre (IBMCC, CSIC/USAL), Consejo Superior de Investigaciones Científicas (CSIC), Instituto de Investigación Biomédica de Salamanca (IBSAL), Universidad de Salamanca (USAL), 37007 Salamanca, Spain.
+39771774	Vilgrain	INSERM, Centre de Recherche sur l'Inflammation, Universite Paris Cite, 45018 Paris, France.
+39771774	Paradis	INSERM, Centre de Recherche sur l'Inflammation, Universite Paris Cite, 45018 Paris, France.
+39771607	Karry	BASF Corporation, Pharma Solutions, Tarrytown, NY 10591, USA.
+39771578	Pilotaz	Horus-Pharma, Département des Opérations Industrielles, 22, allée Camille-Muffat, bât. Inedi 5, 06200 Nice, France.
+39771526	Gryczke	AbbVie Deutschland GmbH & Co. KG, Knollstraße, 67061 Ludwigshafen am Rhein, Germany.
+39771526	Ries	AbbVie Deutschland GmbH & Co. KG, Knollstraße, 67061 Ludwigshafen am Rhein, Germany.
+39771329	Phattarateera	Plastic Technology Research Team, Advanced Polymer Research Group, National Metal and Materials Technology Center (MTEC), Pathum Thani 12120, Thailand.
+39770217	Walles	Pharmacokinetic Sciences, Biomedical Research, Novartis Pharma AG, CH-4056 Basel, Switzerland.
+39770217	Poller	Pharmacokinetic Sciences, Biomedical Research, Novartis Pharma AG, CH-4056 Basel, Switzerland.
+39769828	He	Ganzhou Hake Biotech Co., Ltd., Ganzhou 341008, China.
+39769828	Zhou	Hunan Singular Biotech Co., Ltd., Changsha 410329, China.
+39769828	Huang	Jiangxi Ruijia Biotech Co., Ltd., Yichun 330899, China.
+39768149	Khalidi	Certara Predictive Technologies, Level 2-Acero, 1 Concourse Way, Sheffield S1 2BJ, UK.
+39768149	Gardner	Certara Predictive Technologies, Level 2-Acero, 1 Concourse Way, Sheffield S1 2BJ, UK.
+39764363	Kaneda	KYOCERA Corporation, 6 Takedatobadonocho, Kyoto Fushimi-ku, Kyoto 612-8450, Japan.
+39764363	Yamamoto	KYOCERA Corporation, 6 Takedatobadonocho, Kyoto Fushimi-ku, Kyoto 612-8450, Japan.
+39764363	Nakanishi	KYOCERA Corporation, 6 Takedatobadonocho, Kyoto Fushimi-ku, Kyoto 612-8450, Japan.
+39763304	Segunmaru	Oncology Outcomes Research, AstraZeneca Pharmaceutical Company, Gaithersburg, MD, USA.
+39763304	Bayo	Eli Lilly Pharmaceutical Company, Indianapolis, IN, USA.
+39763027	Silva	Brazilian Agricultural Research Corporation, National Center for Research in Agroindustrial Food Technology (EMBRAPA), Rio de Janeiro, Brazil.
+39762653	Auerbach	Dualsystems Biotech AG, Schlieren, 8952, Switzerland.
+39762631	Kou	Roche Pharma Product Development China, Shanghai, China.
+39761530	Kollmorgen	Roche Diagnostics GmbH, 82377 Penzberg, Germany.
+39761530	Kam-Thong	Roche Pharma Research and Early Development, Pharmaceutical Sciences, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, 4052 Basel, Switzerland.
+39761530	Kustermann	Roche Pharma Research and Early Development, Neurosciences and Rare Diseases, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., 4052 Basel, Switzerland.
+39761530	Machado	Roche Pharma Research and Early Development, Neurosciences and Rare Diseases, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., 4052 Basel, Switzerland.
+39760977	Hashim	Johnson and Johnson Global Commercial Strategy Organization, Beerse, Belgium.
+39759972	Zhu	Guangdong RangerBio Technologies Co., Ltd., Dongguan, Guangdong, 523000, China.
+39759449	Bechmann	Boehringer Ingelheim Pharma GmbH and Co., KG, Biberach an der Riss, Germany.
+39759449	Schmid	Boehringer Ingelheim Pharma GmbH and Co., KG, Biberach an der Riss, Germany.
+39759449	Brand	Boehringer Ingelheim Pharma GmbH and Co., KG, Biberach an der Riss, Germany.
+39759449	Miller	Boehringer Ingelheim Pharma GmbH and Co., KG, Biberach an der Riss, Germany.
+39758820	Segawa	Pharmaceutical Discovery Research Laboratories, Teijin Pharma Limited, Tokyo, Japan.
+39757731	Doktorova	F. Hoffmann-La Roche Ltd, Roche Pharma Research and Early Development, Basel, Switzerland.
+39757594	Arya	CPP, Sun Pharmaceuticals Industries Limited, Gurugram, India.
+39757594	Jhanana Kailash	CPP, Sun Pharmaceuticals Industries Limited, Gurugram, India.
+39757594	Panigrahy	CPP, Sun Pharmaceuticals Industries Limited, Gurugram, India.
+39757594	Joshi	Biobay Solutions, Ahmedabad, India.
+39755860	Mounia	SAIDAL Pharmaceutical Group, Centre de Recherche et de Développement du Groupe INDUSTRIEL SAIDAL, Route de Baraki Gué de Constantine, Algiers, Algeria.
+39755860	Mekaoui	SAIDAL Pharmaceutical Group, Centre de Recherche et de Développement du Groupe INDUSTRIEL SAIDAL, Route de Baraki Gué de Constantine, Algiers, Algeria.
+39755683	Wang	Jichuan Pharmaceutical Group Co., Ltd., Jiangsu, 22544, China.
+39755683	Ni	Jichuan Pharmaceutical Group Co., Ltd., Jiangsu, 22544, China. Niliqi6178@163.com.
+39752236	Zhou	RTI Health Solutions, Research Triangle Park, North Carolina.
+39752236	Garbinsky	RTI Health Solutions, Research Triangle Park, North Carolina.
+39752236	Wang	RTI Health Solutions, Research Triangle Park, North Carolina.
+39751877	Yong	Analytical Toxicology Laboratory, Applied Sciences Group, Health Sciences Authority, 11 Outram Road, Singapore, 169078, Singapore.
+39751877	Goh	Analytical Toxicology Laboratory, Applied Sciences Group, Health Sciences Authority, 11 Outram Road, Singapore, 169078, Singapore.
+39751877	Moy	Analytical Toxicology Laboratory, Applied Sciences Group, Health Sciences Authority, 11 Outram Road, Singapore, 169078, Singapore.
+39748849	Kaneko	Koichi Tanaka Mass Spectrometry Research Laboratory Shimadzu Corporation Kyoto Japan.
+39748849	Takeuchi	Koichi Tanaka Mass Spectrometry Research Laboratory Shimadzu Corporation Kyoto Japan.
+39748849	Hanai	Koichi Tanaka Mass Spectrometry Research Laboratory Shimadzu Corporation Kyoto Japan.
+39748849	Iwamoto	Koichi Tanaka Mass Spectrometry Research Laboratory Shimadzu Corporation Kyoto Japan.
+39748839	Collins	Imaging Research and Development Eli Lilly and Company Indianapolis Indiana USA.
+39748839	Gold	AriLex Life Sciences LLC Deerfield Illinois USA.
+39748839	Möbius	Athira Pharma Bothell Washington USA.
+39748839	Zhou	Eisai, Inc., Clinical Research Neurology Business Group Nutley New Jersey USA.
+39748757	S	Alpha Pharma Industries, KAEC 23994, Rabigh, Saudi Arabia, India.
+39747422	Alfaifi	Health Holding Company, Pharmaceutical Care Administration, Jeddah Second Health Cluster, Jeddah, Saudi Arabia.
+39745898	Vrati	Laboratory of Virology, Regional Centre for Biotechnology, NCR Biotech Science Cluster, Faridabad, India.
+39745898	Gupta	Laboratory of Virology, Regional Centre for Biotechnology, NCR Biotech Science Cluster, Faridabad, India.
+39745898	Kayampeta	Srikara Biologicals Pvt. Ltd., Tirupati, India.
+39745070	Igaki	Drug Safety Research and Evaluation, Research, Takeda Pharmaceutical Company Limited, Fujisawa, Japan.
+39745070	Hashimoto	Drug Safety Research and Evaluation, Research, Takeda Pharmaceutical Company Limited, Fujisawa, Japan.
+39745070	Matsui	Drug Safety Research and Evaluation, Research, Takeda Pharmaceutical Company Limited, Fujisawa, Japan.
+39745070	Shinozawa	Drug Safety Research and Evaluation, Research, Takeda Pharmaceutical Company Limited, Fujisawa, Japan.
+39744187	Majeed	Sabinsa Corporation, East Windsor, NJ, United States.
+39744175	Sun	Kaiser Permanente, Northern California Regional Laboratories, The Permanente Medical Group, 1725 Eastshore Hwy, Berkeley, CA 94710, USA.
+39743745	Delmiglio	Plant Health & Environment Laboratory, Ministry for Primary Industries, Wellington, New Zealand.
+39743745	Fowkes	Fera Science Ltd., York Biotech Campus, York, U.K.
+39743745	Fox	Fera Science Ltd., York Biotech Campus, York, U.K.
+39743745	Perez-Egusquiza	Plant Health & Environment Laboratory, Ministry for Primary Industries, Wellington, New Zealand.
+39743745	Skelton	Fera Science Ltd., York Biotech Campus, York, U.K.
+39743745	Tang	Plant Health & Environment Laboratory, Ministry for Primary Industries, Wellington, New Zealand.
+39743745	Thompson	Plant Health & Environment Laboratory, Ministry for Primary Industries, Wellington, New Zealand.
+39743745	Vazquez-Iglesias	Fera Science Ltd., York Biotech Campus, York, U.K.
+39743745	Veerakone	Plant Health & Environment Laboratory, Ministry for Primary Industries, Wellington, New Zealand.
+39743498	Daungsupawong	Private Academic Consultant, Phonhong, Laos.
+39743184	You	Chongqing Pharscin Pharmaceutical Group Co., Ltd., Chongqing, 401120, China.
+39742310	He	Xiamen Treatgut Biotechnology Co., Ltd Xiamen China.
+39742310	Li	Xiamen Treatgut Biotechnology Co., Ltd Xiamen China.
+39742310	Liu	Chi-Biotech Co. Ltd. Shenzhen China.
+39742310	Luo	Chi-Biotech Co. Ltd. Shenzhen China.
+39742310	Wu	Xiamen Treatgut Biotechnology Co., Ltd Xiamen China.
+39742310	Xiao	Xiamen Treatgut Biotechnology Co., Ltd Xiamen China.
+39742310	Xu	Xiamen Treatgut Biotechnology Co., Ltd Xiamen China.
+39742310	Zhu	Xiamen Chengge Biotechnology Co., Ltd Xiamen China.
+39742310	Zhang	Xiamen Treatgut Biotechnology Co., Ltd Xiamen China.
+39741327	Hao	Chongqing Ruzer Pharmaceutical Company, Qinye Street, Yubei District, Chongqing, 401120, China.
+39741038	Döbber	Forschungszentrum Jülich GmbH, IBG-1: Biotechnology, Wilhelm-Johnen-Straße, 52428 Jülich, Germany.
+39740235	Sinclair	INSINC Consulting Inc., Guelph, Ontario, Canada.
+39737957	Moulder	Eli Lilly and Company, Indianapolis, IN, USA.
+39735855	Deng	Development of Research and Development, Sunshine Guojian Pharmaceutical (Shanghai) Co. Ltd., a 3SBio Inc. Company, 399 Libing Road, Shanghai 201203, China.
+39735855	Wang	Development of Research and Development, Sunshine Guojian Pharmaceutical (Shanghai) Co. Ltd., a 3SBio Inc. Company, 399 Libing Road, Shanghai 201203, China.
+39735855	Meng	Development of Research and Development, Sunshine Guojian Pharmaceutical (Shanghai) Co. Ltd., a 3SBio Inc. Company, 399 Libing Road, Shanghai 201203, China.
+39735855	Zheng	Development of Research and Development, Sunshine Guojian Pharmaceutical (Shanghai) Co. Ltd., a 3SBio Inc. Company, 399 Libing Road, Shanghai 201203, China.
+39735855	Dong	Development of Research and Development, Sunshine Guojian Pharmaceutical (Shanghai) Co. Ltd., a 3SBio Inc. Company, 399 Libing Road, Shanghai 201203, China.
+39735855	Chen	Development of Research and Development, Sunshine Guojian Pharmaceutical (Shanghai) Co. Ltd., a 3SBio Inc. Company, 399 Libing Road, Shanghai 201203, China.
+39735855	Huang	Development of Research and Development, Sunshine Guojian Pharmaceutical (Shanghai) Co. Ltd., a 3SBio Inc. Company, 399 Libing Road, Shanghai 201203, China.
+39734709	Wang	Clinical Research Management Center, Livzon Pharmaceutical Group Inc., Zhuhai, Guangdong, China.
+39734709	Wang	Clinical Research Management Center, Livzon Pharmaceutical Group Inc., Zhuhai, Guangdong, China.
+39734659	Lambertucci	Analytik Jena AG Analytik Jena UK Ltd London UK.
+39734659	Deakin	Analytik Jena AG Analytik Jena UK Ltd London UK.
+39734535	Lan	Hanyi Bio-technology Company Ltd, Beijing 100026, China.
+39734228	Gago-Dominguez	Cancer Genetics and Epidemiology Group, Genomic Medicine Group, Fundación Instituto de Investigación Sanitaria de Santiago de Compostela (FIDIS), Complejo Hospitalario Universitario de Santiago, SERGAS, Santiago de Compostela, Spain.
+39733939	Elmaraghy	Eli Lilly and Company, Indianapolis, Indiana.
+39733939	Atwater	Eli Lilly and Company, Indianapolis, Indiana.
+39733939	Pierce	Eli Lilly and Company, Indianapolis, Indiana.
+39733939	Xu	Eli Lilly and Company, Indianapolis, Indiana.
+39733558	Allard	Amneal Pharmaceuticals, LLC, 400 Crossing Boulevard, Bridgewater, NJ, USA.
+39733558	Banisadr	Amneal Pharmaceuticals, LLC, 400 Crossing Boulevard, Bridgewater, NJ, USA.
+39733558	Fisher	Amneal Pharmaceuticals, LLC, 400 Crossing Boulevard, Bridgewater, NJ, USA.
+39733558	D'Souza	Amneal Pharmaceuticals, LLC, 400 Crossing Boulevard, Bridgewater, NJ, USA.
+39733419	Nazemi	Persian Gulf and Oman Sea Ecological Research Organization, Iranian Fisheries Research Organization, Agricultural Research, Education and Extension Organization (AREEO) Bandar Abbas, Iran.
+39732660	Wu	Beijing Qinglian Biotech Co., Ltd, Beijing, China.
+39732660	Sun	Beijing Qinglian Biotech Co., Ltd, Beijing, China.
+39732333	Wang	Heilongjiang Fengran Agricultural Group, Harbin 150040, China.
+39732249	Akhter	New Product Development, Global R&D, Sterile ops, TEVA Pharmaceutical Industries Ltd., Aston Ln N, Halton, Preston Brook, Runcorn WA7 3FA, UK. Electronic address: sohailakhtermph@gmail.com.
+39731185	Itou	Oncology Drug Discovery Unit Japan, Pharmaceutical Research Division, Takeda Pharmaceutical Company Limited, Fujisawa, Japan.
+39731185	Okuzono	Oncology Drug Discovery Unit Japan, Pharmaceutical Research Division, Takeda Pharmaceutical Company Limited, Fujisawa, Japan.
+39731185	Warude	Oncology Drug Discovery Unit Japan, Pharmaceutical Research Division, Takeda Pharmaceutical Company Limited, Fujisawa, Japan.
+39731185	Miyakawa	Oncology Drug Discovery Unit Japan, Pharmaceutical Research Division, Takeda Pharmaceutical Company Limited, Fujisawa, Japan.
+39731185	Kikukawa	Oncology Drug Discovery Unit Japan, Pharmaceutical Research Division, Takeda Pharmaceutical Company Limited, Fujisawa, Japan.
+39730666	Holguín-Ruíz	Pharmacology Research Group, Universidad del Valle, Colombia, Cali, 760043.
+39730666	Rodríguez	Pharmacology Research Group, Universidad del Valle, Colombia, Cali, 760043. lmrodriguez@icesi.edu.co.
+39730666	Muñoz-Botina	Pharmacology Research Group, Universidad del Valle, Colombia, Cali, 760043.
+39730666	Rodríguez-Galviz	Pharmacology Research Group, Universidad del Valle, Colombia, Cali, 760043.
+39730666	Zambrano-Galeano	Pharmacology Research Group, Universidad del Valle, Colombia, Cali, 760043.
+39730666	Castaño-Valencia	Pharmacology Research Group, Universidad del Valle, Colombia, Cali, 760043.
+39730666	Gutiérrez-Montes	Pharmacology Research Group, Universidad del Valle, Colombia, Cali, 760043.
+39730225	Joe	Acesco Group Pty Ltd, Australia.
+39729064	Ohmayer	NEOsphere Biotechnologies GmbH, Fraunhoferstr. 1, 82152 Martinsried, Germany.
+39729064	Daub	NEOsphere Biotechnologies GmbH, Fraunhoferstr. 1, 82152 Martinsried, Germany.
+39727491	Maroun	Centre d'Analyses et de Recherche, Unité de Recherche Technologies et Valorisation Agro-alimentaire, Faculté des Sciences, Université Saint-Joseph de Beyrouth, Mar Roukos, Dekwaneh, P.O. Box 1514, Riad El Solh, Beirut 1107 2050, Lebanon.
+39727491	Louka	Centre d'Analyses et de Recherche, Unité de Recherche Technologies et Valorisation Agro-alimentaire, Faculté des Sciences, Université Saint-Joseph de Beyrouth, Mar Roukos, Dekwaneh, P.O. Box 1514, Riad El Solh, Beirut 1107 2050, Lebanon.
+39726662	Qenab	USAID Medicines, Technologies, and Pharmaceutical Services Program, Management Sciences for Health, Amman, Jordan.
+39726662	Aqel	USAID Medicines, Technologies, and Pharmaceutical Services Program, Management Sciences for Health, Amman, Jordan.
+39726662	Younis	USAID Medicines, Technologies, and Pharmaceutical Services Program, Management Sciences for Health, Amman, Jordan.
+39726662	AbuShweimeh	USAID Medicines, Technologies, and Pharmaceutical Services Program, Management Sciences for Health, Amman, Jordan.
+39726662	Al Zghoul	USAID Medicines, Technologies, and Pharmaceutical Services Program, Management Sciences for Health, Amman, Jordan.
+39726662	Sweedan	USAID Medicines, Technologies, and Pharmaceutical Services Program, Management Sciences for Health, Amman, Jordan.
+39726662	Omran	USAID Medicines, Technologies, and Pharmaceutical Services Program, Management Sciences for Health, Amman, Jordan.
+39726662	Joshi	USAID Medicines, Technologies, and Pharmaceutical Services Program, Management Sciences for Health, Arlington, VA, United States.
+39726662	Konduri	USAID Medicines, Technologies, and Pharmaceutical Services Program, Management Sciences for Health, Arlington, VA, United States.
+39725693	Dominguez-Gomez	ELEM Biotech S.L., Pier 07, Via Laietana, 26, Barcelona, 08003, Spain. pdominguez@elem.bio.
+39725693	Zingaro	ELEM Biotech S.L., Pier 07, Via Laietana, 26, Barcelona, 08003, Spain.
+39725693	Baldo-Canut	ELEM Biotech S.L., Pier 07, Via Laietana, 26, Barcelona, 08003, Spain.
+39725693	Balzotti	ELEM Biotech S.L., Pier 07, Via Laietana, 26, Barcelona, 08003, Spain.
+39725693	Morton	ELEM Biotech S.L., Pier 07, Via Laietana, 26, Barcelona, 08003, Spain.
+39725693	Vázquez	ELEM Biotech S.L., Pier 07, Via Laietana, 26, Barcelona, 08003, Spain.
+39725693	Aguado-Sierra	ELEM Biotech S.L., Pier 07, Via Laietana, 26, Barcelona, 08003, Spain.
+39725372	Shibata	Tokyo New Drug Research Laboratories, Pharmaceutical Business Unit, Kowa Company, Ltd., Tokyo, Japan.
+39725230	Sepassi	Janssen Research & Development, LLC, Discovery Pharmaceutics, San Diego, CA, USA.
+39724696	Wang	Technology Research and Development Center, Huada Chemical Group, Yantai 264001, China.
+39724680	Delic	Boehringer Ingelheim Pharma GmbH & Co. KG, Biberach an der Riss, Germany. Electronic address: denis.delic@boehringer-ingelheim.com.
+39724680	Klein	Boehringer Ingelheim Pharma GmbH & Co. KG, Biberach an der Riss, Germany.
+39724680	Wohnhaas	Boehringer Ingelheim Pharma GmbH & Co. KG, Biberach an der Riss, Germany.

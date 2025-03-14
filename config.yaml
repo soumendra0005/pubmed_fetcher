@@ -1,0 +1,24 @@
+non_academic_keywords:
+  - "Inc"
+  - "Ltd"
+  - "Pharma"
+  - "Biotech"
+  - "Corporation"
+  - "Company"
+  - "LLC"
+  - "Laboratories"
+  - "Technologies"
+  - "Research Institute"
+  - "Healthcare"
+  - "Biosciences"
+
+non_academic_email_patterns:
+  - ".com"
+  - ".net"
+  - ".org"
+
+academic_email_patterns:
+  - ".edu"
+  - ".ac."
+  - "university"
+  - "college"
